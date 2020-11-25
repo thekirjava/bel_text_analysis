@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1127824" lemma="абы-хто+" tag="S">
+        <Variant id="a" lemma="абы-хто+">
+            <Slounik name="piskunou2012" idx="4294">{b}абы-хто´{/b} {i}займ.{/i}, {i}РВ{/i} абы-каго´, {i}Д{/i} абы-каму´, {i}ТМ{/i} абы-кі´м /// </Slounik>
+            <Form tag="MNS" slouniki="yes">абы-хто+</Form>
+            <Form tag="MGS" slouniki="yes">абы-каго+</Form>
+            <Form tag="MDS" slouniki="yes">абы-каму+</Form>
+            <Form tag="MAS" slouniki="yes">абы-каго+</Form>
+            <Form tag="MIS" slouniki="yes">абы-кі+м</Form>
+            <Form tag="MLS" slouniki="yes">абы-кі+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127854" lemma="абы-чы+й" tag="S">
+        <Variant id="a" lemma="абы-чы+й">
+            <Form tag="MNS" slouniki="yes">абы-чы+й</Form>
+            <Form tag="MGS" slouniki="yes">абы-чыйго+</Form>
+            <Form tag="MDS" slouniki="yes">абы-чыйму+</Form>
+            <Form tag="MAS" slouniki="yes">абы-чыйго+</Form>
+            <Form tag="MAS" slouniki="yes">абы-чы+й</Form>
+            <Form tag="MIS" slouniki="yes">абы-чыі+м</Form>
+            <Form tag="MLS" slouniki="yes">абы-чыі+м</Form>
+            <Form tag="FNS" slouniki="yes">абы-чыя+</Form>
+            <Form tag="FGS" slouniki="yes">абы-чыёй</Form>
+            <Form tag="FDS" slouniki="yes">абы-чыёй</Form>
+            <Form tag="FAS" slouniki="yes">абы-чыю+</Form>
+            <Form tag="FIS" slouniki="yes">абы-чыёй</Form>
+            <Form tag="FIS" slouniki="yes">абы-чыёю</Form>
+            <Form tag="FLS" slouniki="yes">абы-чыёй</Form>
+            <Form tag="NNS" slouniki="yes">абы-чыё</Form>
+            <Form tag="NGS" slouniki="yes">абы-чыйго+</Form>
+            <Form tag="NDS" slouniki="yes">абы-чыйму+</Form>
+            <Form tag="NAS" slouniki="yes">абы-чыё</Form>
+            <Form tag="NIS" slouniki="yes">абы-чыі+м</Form>
+            <Form tag="NLS" slouniki="yes">абы-чыі+м</Form>
+            <Form tag="0NP" slouniki="yes">абы-чые+</Form>
+            <Form tag="0GP" slouniki="yes">абы-чыі+х</Form>
+            <Form tag="0DP" slouniki="yes">абы-чыі+м</Form>
+            <Form tag="0AP" slouniki="yes">абы-чыі+х</Form>
+            <Form tag="0AP" slouniki="yes">абы-чые+</Form>
+            <Form tag="0IP" slouniki="yes">абы-чыі+мі</Form>
+            <Form tag="0LP" slouniki="yes">абы-чыі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127825" lemma="абы-што+" tag="S">
+        <Variant id="a" lemma="абы-што+">
+            <Slounik name="piskunou2012" idx="4305">{b}абы-што´{/b} {i}займ.{/i}, {i}Р{/i} абы-чаго´, {i}Д{/i} абы-чаму´, {i}В{/i} абы-што´, {i}ТМ{/i} абы-чы´м /// </Slounik>
+            <Form tag="MNS" slouniki="yes">абы-што+</Form>
+            <Form tag="MGS" slouniki="yes">абы-чаго+</Form>
+            <Form tag="MDS" slouniki="yes">абы-чаму+</Form>
+            <Form tag="MAS" slouniki="yes">абы-што+</Form>
+            <Form tag="MIS" slouniki="yes">абы-чы+м</Form>
+            <Form tag="MLS" slouniki="yes">абы-чы+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127861" lemma="абы-які+" tag="S">
+        <Variant id="a" lemma="абы-які+">
+            <Form tag="MNS" slouniki="yes">абы-які+</Form>
+            <Form tag="MGS" slouniki="yes">абы-яко+га</Form>
+            <Form tag="MDS" slouniki="yes">абы-яко+му</Form>
+            <Form tag="MAS" slouniki="yes">абы-яко+га</Form>
+            <Form tag="MAS" slouniki="yes">абы-які+</Form>
+            <Form tag="MIS" slouniki="yes">абы-які+м</Form>
+            <Form tag="MLS" slouniki="yes">абы-які+м</Form>
+            <Form tag="FNS" slouniki="yes">абы-яка+я</Form>
+            <Form tag="FGS" slouniki="yes">абы-яко+й</Form>
+            <Form tag="FGS" slouniki="yes">абы-яко+е</Form>
+            <Form tag="FDS" slouniki="yes">абы-яко+й</Form>
+            <Form tag="FAS" slouniki="yes">абы-яку+ю</Form>
+            <Form tag="FIS" slouniki="yes">абы-яко+й</Form>
+            <Form tag="FIS" slouniki="yes">абы-яко+ю</Form>
+            <Form tag="FLS" slouniki="yes">абы-яко+й</Form>
+            <Form tag="NNS" slouniki="yes">абы-яко+е</Form>
+            <Form tag="NGS" slouniki="yes">абы-яко+га</Form>
+            <Form tag="NDS" slouniki="yes">абы-яко+му</Form>
+            <Form tag="NAS" slouniki="yes">абы-яко+е</Form>
+            <Form tag="NIS" slouniki="yes">абы-які+м</Form>
+            <Form tag="NLS" slouniki="yes">абы-які+м</Form>
+            <Form tag="0NP" slouniki="yes">абы-які+я</Form>
+            <Form tag="0GP" slouniki="yes">абы-які+х</Form>
+            <Form tag="0DP" slouniki="yes">абы-які+м</Form>
+            <Form tag="0AP" slouniki="yes">абы-які+х</Form>
+            <Form tag="0AP" slouniki="yes">абы-які+я</Form>
+            <Form tag="0IP" slouniki="yes">абы-які+мі</Form>
+            <Form tag="0LP" slouniki="yes">абы-які+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127844" lemma="адзі+н" tag="S">
+        <Variant id="a" lemma="адзі+н">
+            <Form tag="MNS" slouniki="yes">адзі+н</Form>
+            <Form tag="MGS">аднаго+</Form>
+            <Form tag="MDS">аднаму+</Form>
+            <Form tag="MAS">аднаго+</Form>
+            <Form tag="MAS">адзі+н</Form>
+            <Form tag="MIS">адны+м</Form>
+            <Form tag="MLS">адны+м</Form>
+            <Form tag="FNS">адна+</Form>
+            <Form tag="FGS">адно+й</Form>
+            <Form tag="FDS">адно+й</Form>
+            <Form tag="FAS">адну+</Form>
+            <Form tag="FIS">адно+й</Form>
+            <Form tag="FLS">адно+й</Form>
+            <Form tag="NNS">адно+</Form>
+            <Form tag="NGS">аднаго+</Form>
+            <Form tag="NDS">аднаму+</Form>
+            <Form tag="NAS">адно+</Form>
+            <Form tag="NIS">адны+м</Form>
+            <Form tag="NLS">адны+м</Form>
+            <Form tag="0NP">адны+</Form>
+            <Form tag="0NP">адны+я</Form>
+            <Form tag="0GP">адны+х</Form>
+            <Form tag="0DP">адны+м</Form>
+            <Form tag="0AP">адны+х</Form>
+            <Form tag="0AP">адны+я</Form>
+            <Form tag="0IP">адны+мі</Form>
+            <Form tag="0LP">адны+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1205419" lemma="аніво+дзін" tag="S">
+        <Variant id="a" lemma="аніво+дзін">
+            <Slounik name="piskunou2012" idx="13870">{b}аніво´дзін{/b}* {i}займ.{/i}, {i}м.{/i}, {i}Р{/i} аніво´днага, {i}Д{/i} -днаму, {i}В{/i} -дзін ({i}неадуш.{/i}) {i}і{/i} -днага ({i}адуш.{/i}), {i}ТМ{/i} -дным /// </Slounik>
+            <Form tag="MNS" slouniki="yes">аніво+дзін</Form>
+            <Form tag="MGS">аніво+днага</Form>
+            <Form tag="MDS">аніво+днаму</Form>
+            <Form tag="MAS">аніво+дзін</Form>
+            <Form tag="MAS">аніво+днага</Form>
+            <Form tag="MIS">аніво+дным</Form>
+            <Form tag="MLS">аніво+дным</Form>
+            <Form tag="FNS">аніво+дная</Form>
+            <Form tag="FGS">аніво+днай</Form>
+            <Form tag="FGS">аніво+днае</Form>
+            <Form tag="FDS">аніво+днай</Form>
+            <Form tag="FAS">аніво+дную</Form>
+            <Form tag="FIS">аніво+днай</Form>
+            <Form tag="FLS">аніво+днай</Form>
+            <Form tag="NNS">аніво+днае</Form>
+            <Form tag="NGS">аніво+днага</Form>
+            <Form tag="NDS">аніво+днаму</Form>
+            <Form tag="NAS">аніво+днае</Form>
+            <Form tag="NIS">аніво+дным</Form>
+            <Form tag="NLS">аніво+дным</Form>
+            <Form tag="XNP">аніво+дныя</Form>
+            <Form tag="XGP">аніво+дных</Form>
+            <Form tag="XDP">аніво+дным</Form>
+            <Form tag="XAP">аніво+дныя</Form>
+            <Form tag="XAP">аніво+дных</Form>
+            <Form tag="XIP">аніво+днымі</Form>
+            <Form tag="XLP">аніво+дных</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138966" lemma="аніхто+" tag="S">
+        <Variant id="a" lemma="аніхто+">
+            <Slounik name="piskunou2012" idx="13937">{b}аніхто´{/b}* {i}займ.{/i} {i}Р{/i} аніко´га (ані {i}да{/i} ко´га), {i}Д{/i} аніко´му, {i}В{/i} аніко´га (ані {i}пра{/i} ко´га), {i}Т{/i} анікі´м (ані {i}з{/i} кі´м), {i}М{/i} ані кі´м (ані аб кі´м) /// </Slounik>
+            <Form tag="MNS" slouniki="yes">аніхто+</Form>
+            <Form tag="MGS" slouniki="yes">аніко+га</Form>
+            <Form tag="MDS" slouniki="yes">аніко+му</Form>
+            <Form tag="MAS" slouniki="yes">аніко+га</Form>
+            <Form tag="MIS" slouniki="yes">анікі+м</Form>
+            <Form tag="MLS" slouniki="yes">анікі+м</Form>
+            <Form tag="MLS" slouniki="yes">ані аб кім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138967" lemma="анішто+" tag="S">
+        <Variant id="a" lemma="анішто+">
+            <Slounik name="piskunou2012" idx="13945">{b}анішто´{/b}* {i}займ.{/i} {i}Р{/i} анічо´га (ані {i}да{/i} чо´га), {i}Д{/i} анічо´му, {i}В{/i} анішто´ (ані {i}пра{/i} што´), {i}Т{/i} анічы´м (ані {i}з{/i} чы´м), {i}М{/i} анічы´м (ані {i}аб{/i} чы´м) /// </Slounik>
+            <Form tag="MNS" slouniki="yes">анішто+</Form>
+            <Form tag="MGS" slouniki="yes">анічо+га</Form>
+            <Form tag="MDS" slouniki="yes">анічо+му</Form>
+            <Form tag="MAS" slouniki="yes">анішто+</Form>
+            <Form tag="MIS" slouniki="yes">анічы+м</Form>
+            <Form tag="MLS" slouniki="yes">анічы+м</Form>
+            <Form tag="MLS" slouniki="yes">ані аб чым</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127816" lemma="анія+кі" tag="S">
+        <Variant id="a" lemma="анія+кі">
+            <Form tag="MNS" slouniki="yes">анія+кі</Form>
+            <Form tag="MGS" slouniki="yes">анія+кага</Form>
+            <Form tag="MDS" slouniki="yes">анія+каму</Form>
+            <Form tag="MAS" slouniki="yes">анія+кага</Form>
+            <Form tag="MAS" slouniki="yes">анія+кі</Form>
+            <Form tag="MIS" slouniki="yes">анія+кім</Form>
+            <Form tag="MLS" slouniki="yes">анія+кім</Form>
+            <Form tag="FNS" slouniki="yes">анія+кая</Form>
+            <Form tag="FGS" slouniki="yes">анія+кай</Form>
+            <Form tag="FGS" slouniki="yes">анія+кае</Form>
+            <Form tag="FDS" slouniki="yes">анія+кай</Form>
+            <Form tag="FAS" slouniki="yes">анія+кую</Form>
+            <Form tag="FIS" slouniki="yes">анія+кай</Form>
+            <Form tag="FIS" slouniki="yes">анія+каю</Form>
+            <Form tag="FLS" slouniki="yes">анія+кай</Form>
+            <Form tag="NNS" slouniki="yes">анія+кае</Form>
+            <Form tag="NGS" slouniki="yes">анія+кага</Form>
+            <Form tag="NDS" slouniki="yes">анія+каму</Form>
+            <Form tag="NAS" slouniki="yes">анія+кае</Form>
+            <Form tag="NIS" slouniki="yes">анія+кім</Form>
+            <Form tag="NLS" slouniki="yes">анія+кім</Form>
+            <Form tag="0NP" slouniki="yes">анія+кія</Form>
+            <Form tag="0GP" slouniki="yes">анія+кіх</Form>
+            <Form tag="0DP" slouniki="yes">анія+кім</Form>
+            <Form tag="0AP" slouniki="yes">анія+кіх</Form>
+            <Form tag="0AP" slouniki="yes">анія+кія</Form>
+            <Form tag="0IP" slouniki="yes">анія+кімі</Form>
+            <Form tag="0LP" slouniki="yes">анія+кіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127812" lemma="ваш" tag="S">
+        <Variant id="a" lemma="ваш">
+            <Form tag="MNS" slouniki="yes">ваш</Form>
+            <Form tag="MGS" slouniki="yes">ва+шага</Form>
+            <Form tag="MDS" slouniki="yes">ва+шаму</Form>
+            <Form tag="MAS" slouniki="yes">ва+шага</Form>
+            <Form tag="MAS" slouniki="yes">ваш</Form>
+            <Form tag="MIS" slouniki="yes">ва+шым</Form>
+            <Form tag="MLS" slouniki="yes">ва+шым</Form>
+            <Form tag="FNS" slouniki="yes">ва+ша</Form>
+            <Form tag="FGS" slouniki="yes">ва+шай</Form>
+            <Form tag="FGS" slouniki="yes">ва+шае</Form>
+            <Form tag="FDS" slouniki="yes">ва+шай</Form>
+            <Form tag="FAS" slouniki="yes">ва+шу</Form>
+            <Form tag="FIS" slouniki="yes">ва+шай</Form>
+            <Form tag="NNS" slouniki="yes">ва+ша</Form>
+            <Form tag="NGS" slouniki="yes">ва+шага</Form>
+            <Form tag="NDS" slouniki="yes">ва+шаму</Form>
+            <Form tag="NAS" slouniki="yes">ва+ша</Form>
+            <Form tag="NIS" slouniki="yes">ва+шым</Form>
+            <Form tag="NLS" slouniki="yes">ва+шым</Form>
+            <Form tag="0NP" slouniki="yes">ва+шы</Form>
+            <Form tag="0GP" slouniki="yes">ва+шых</Form>
+            <Form tag="0DP" slouniki="yes">ва+шым</Form>
+            <Form tag="0AP" slouniki="yes">ва+шых</Form>
+            <Form tag="0AP" slouniki="yes">ва+шы</Form>
+            <Form tag="0IP" slouniki="yes">ва+шымі</Form>
+            <Form tag="0LP" slouniki="yes">ва+шых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1160154" lemma="вы" tag="S">
+        <Variant id="a" lemma="вы">
+            <Form tag="0NP" slouniki="yes">вы</Form>
+            <Form tag="0GP" slouniki="yes">вас</Form>
+            <Form tag="0DP" slouniki="yes">вам</Form>
+            <Form tag="0AP" slouniki="yes">вас</Form>
+            <Form tag="0IP" slouniki="yes">ва+мі</Form>
+            <Form tag="0LP" slouniki="yes">вас</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127813" lemma="гэ+ны" tag="S">
+        <Variant id="a" lemma="гэ+ны">
+            <Form tag="MNS" slouniki="yes">гэ+ны</Form>
+            <Form tag="MGS" slouniki="yes">гэ+нага</Form>
+            <Form tag="MDS" slouniki="yes">гэ+наму</Form>
+            <Form tag="MAS" slouniki="yes">гэ+нага</Form>
+            <Form tag="MAS" slouniki="yes">гэ+ны</Form>
+            <Form tag="MIS" slouniki="yes">гэ+ным</Form>
+            <Form tag="MLS" slouniki="yes">гэ+ным</Form>
+            <Form tag="FNS" slouniki="yes">гэ+ная</Form>
+            <Form tag="FGS" slouniki="yes">гэ+най</Form>
+            <Form tag="FGS" slouniki="yes">гэ+нае</Form>
+            <Form tag="FDS" slouniki="yes">гэ+най</Form>
+            <Form tag="FAS" slouniki="yes">гэ+ную</Form>
+            <Form tag="FIS" slouniki="yes">гэ+най</Form>
+            <Form tag="FIS" slouniki="yes">гэ+наю</Form>
+            <Form tag="FLS" slouniki="yes">гэ+най</Form>
+            <Form tag="NNS" slouniki="yes">гэ+нае</Form>
+            <Form tag="NGS" slouniki="yes">гэ+нага</Form>
+            <Form tag="NDS" slouniki="yes">гэ+наму</Form>
+            <Form tag="NAS" slouniki="yes">гэ+нае</Form>
+            <Form tag="NIS" slouniki="yes">гэ+ным</Form>
+            <Form tag="NLS" slouniki="yes">гэ+ным</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127814" lemma="гэ+такі" tag="S">
+        <Variant id="a" lemma="гэ+такі">
+            <Form tag="MNS" slouniki="yes">гэ+такі</Form>
+            <Form tag="MGS" slouniki="yes">гэ+такага</Form>
+            <Form tag="MDS" slouniki="yes">гэ+такаму</Form>
+            <Form tag="MAS" slouniki="yes">гэ+такага</Form>
+            <Form tag="MAS" slouniki="yes">гэ+такі</Form>
+            <Form tag="MIS" slouniki="yes">гэ+такім</Form>
+            <Form tag="MLS" slouniki="yes">гэ+такім</Form>
+            <Form tag="FNS" slouniki="yes">гэ+такая</Form>
+            <Form tag="FGS" slouniki="yes">гэ+такай</Form>
+            <Form tag="FGS" slouniki="yes">гэ+такае</Form>
+            <Form tag="FDS" slouniki="yes">гэ+такай</Form>
+            <Form tag="FAS" slouniki="yes">гэ+такую</Form>
+            <Form tag="FIS" slouniki="yes">гэ+такай</Form>
+            <Form tag="FIS" slouniki="yes">гэ+такаю</Form>
+            <Form tag="FLS" slouniki="yes">гэ+такай</Form>
+            <Form tag="NNS" slouniki="yes">гэ+такае</Form>
+            <Form tag="NGS">гэ+такага</Form>
+            <Form tag="NDS" slouniki="yes">гэ+такаму</Form>
+            <Form tag="NAS">гэ+такае</Form>
+            <Form tag="NIS" slouniki="yes">гэ+такім</Form>
+            <Form tag="NLS" slouniki="yes">гэ+такім</Form>
+            <Form tag="0NP" slouniki="yes">гэ+такія</Form>
+            <Form tag="0GP" slouniki="yes">гэ+такіх</Form>
+            <Form tag="0DP" slouniki="yes">гэ+такім</Form>
+            <Form tag="0AP" slouniki="yes">гэ+такіх</Form>
+            <Form tag="0AP" slouniki="yes">гэ+такія</Form>
+            <Form tag="0IP" slouniki="yes">гэ+такімі</Form>
+            <Form tag="0LP" slouniki="yes">гэ+такіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127867" lemma="гэ+тулькі" tag="S">
+        <Variant id="a" lemma="гэ+тулькі">
+            <Slounik name="piskunou2012" idx="47974">{b}гэ´тулькі{/b}{sup}1{/sup}* {i}займ.{/i}, {i}РМ{/i} гэ´тулькіх, {i}Д{/i} гэ´тулькім, {i}В{/i} гэ´тулькі ({i}неадуш.{/i}) {i}і{/i} гэ´тулькіх ({i}адуш.{/i}), {i}Т{/i} гэ´тулькімі /// </Slounik>
+            <Form tag="0NP" slouniki="yes">гэ+тулькі</Form>
+            <Form tag="0GP" slouniki="yes">гэ+тулькіх</Form>
+            <Form tag="0DP" slouniki="yes">гэ+тулькім</Form>
+            <Form tag="0AP" slouniki="yes">гэ+тулькіх</Form>
+            <Form tag="0AP" slouniki="yes">гэ+тулькі</Form>
+            <Form tag="0IP" slouniki="yes">гэ+тулькімі</Form>
+            <Form tag="0LP" slouniki="yes">гэ+тулькіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127810" lemma="гэ+ты" tag="S">
+        <Variant id="a" lemma="гэ+ты">
+            <Slounik name="piskunou2012" idx="47976">{b}гэ´ты{/b} {i}займ.{/i}, {i}м.{/i}, {i}Р{/i} гэ´тага, {i}Д{/i} гэ´таму, {i}В{/i} гэ´ты ({i}неадуш.{/i}) {i}і{/i} гэ´тага ({i}адуш.{/i}), {i}ТМ{/i} гэ´тым /// </Slounik>
+            <Form tag="MNS" slouniki="yes">гэ+ты</Form>
+            <Form tag="MGS" slouniki="yes">гэ+тага</Form>
+            <Form tag="MDS" slouniki="yes">гэ+таму</Form>
+            <Form tag="MAS" slouniki="yes">гэ+ты</Form>
+            <Form tag="MAS" slouniki="yes">гэ+тага</Form>
+            <Form tag="MIS" slouniki="yes">гэ+тым</Form>
+            <Form tag="MLS" slouniki="yes">гэ+тым</Form>
+            <Form tag="FNS" slouniki="yes">гэ+та</Form>
+            <Form tag="FNS" slouniki="yes">гэ+тая</Form>
+            <Form tag="FGS" slouniki="yes">гэ+тай</Form>
+            <Form tag="FGS" slouniki="yes">гэ+тае</Form>
+            <Form tag="FDS" slouniki="yes">гэ+тай</Form>
+            <Form tag="FAS" slouniki="yes">гэ+ту</Form>
+            <Form tag="FAS" slouniki="yes">гэ+тую</Form>
+            <Form tag="FIS" slouniki="yes">гэ+тай</Form>
+            <Form tag="FIS" slouniki="yes">гэ+таю</Form>
+            <Form tag="FLS" slouniki="yes">гэ+тай</Form>
+            <Form tag="NNS" slouniki="yes">гэ+та</Form>
+            <Form tag="NNS" slouniki="yes">гэ+тае</Form>
+            <Form tag="NGS" slouniki="yes">гэ+тага</Form>
+            <Form tag="NDS" slouniki="yes">гэ+таму</Form>
+            <Form tag="NAS" slouniki="yes">гэ+та</Form>
+            <Form tag="NAS">гэ+тае</Form>
+            <Form tag="NIS" slouniki="yes">гэ+тым</Form>
+            <Form tag="NLS" slouniki="yes">гэ+тым</Form>
+            <Form tag="0NP" slouniki="yes">гэ+тыя</Form>
+            <Form tag="0GP" slouniki="yes">гэ+тых</Form>
+            <Form tag="0DP" slouniki="yes">гэ+тым</Form>
+            <Form tag="0AP" slouniki="yes">гэ+тыя</Form>
+            <Form tag="0AP" slouniki="yes">гэ+тых</Form>
+            <Form tag="0IP" slouniki="yes">гэ+тымі</Form>
+            <Form tag="0LP" slouniki="yes">гэ+тых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1160156" lemma="да+дзены" tag="S">
+        <Variant id="a" lemma="да+дзены">
+            <Form tag="MNS" slouniki="yes">да+дзены</Form>
+            <Form tag="MGS">да+дзенага</Form>
+            <Form tag="MDS">да+дзенаму</Form>
+            <Form tag="MAS">да+дзенага</Form>
+            <Form tag="MAS">да+дзены</Form>
+            <Form tag="MIS">да+дзеным</Form>
+            <Form tag="MLS">да+дзеным</Form>
+            <Form tag="FNS">да+дзеная</Form>
+            <Form tag="FGS">да+дзенай</Form>
+            <Form tag="FGS">да+дзенае</Form>
+            <Form tag="FDS">да+дзенай</Form>
+            <Form tag="FAS">да+дзеную</Form>
+            <Form tag="FIS">да+дзенай</Form>
+            <Form tag="FLS">да+дзенай</Form>
+            <Form tag="NNS">да+дзенае</Form>
+            <Form tag="NGS">да+дзенага</Form>
+            <Form tag="NDS">да+дзенаму</Form>
+            <Form tag="NAS">да+дзенае</Form>
+            <Form tag="NIS">да+дзеным</Form>
+            <Form tag="NLS">да+дзеным</Form>
+            <Form tag="0NP">да+дзеныя</Form>
+            <Form tag="0GP">да+дзеных</Form>
+            <Form tag="0DP">да+дзеным</Form>
+            <Form tag="0AP">да+дзеных</Form>
+            <Form tag="0AP">да+дзеныя</Form>
+            <Form tag="0IP">да+дзенымі</Form>
+            <Form tag="0LP">да+дзеных</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127845" lemma="другі+" tag="S">
+        <Variant id="a" lemma="другі+">
+            <Form tag="MNS" slouniki="yes">другі+</Form>
+            <Form tag="MGS">друго+га</Form>
+            <Form tag="MDS">друго+му</Form>
+            <Form tag="MAS">друго+га</Form>
+            <Form tag="MAS">другі+</Form>
+            <Form tag="MIS">другі+м</Form>
+            <Form tag="MLS">другі+м</Form>
+            <Form tag="FNS">друга+я</Form>
+            <Form tag="FGS">друго+й</Form>
+            <Form tag="FDS">друго+й</Form>
+            <Form tag="FAS">другу+ю</Form>
+            <Form tag="FIS">друго+й</Form>
+            <Form tag="FLS">друго+й</Form>
+            <Form tag="NNS">друго+е</Form>
+            <Form tag="NGS">друго+га</Form>
+            <Form tag="NDS">друго+му</Form>
+            <Form tag="NAS">друго+га</Form>
+            <Form tag="NIS">другі+м</Form>
+            <Form tag="NLS">другі+м</Form>
+            <Form tag="0NP">другі+я</Form>
+            <Form tag="0GP">другі+х</Form>
+            <Form tag="0DP">другі+м</Form>
+            <Form tag="0AP">другі+х</Form>
+            <Form tag="0AP">другі+я</Form>
+            <Form tag="0IP">другі+мі</Form>
+            <Form tag="0LP">другі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127912" lemma="ён" tag="S">
+        <Variant id="a" lemma="ён">
+            <Form tag="MNS" slouniki="yes">ён</Form>
+            <Form tag="MGS" slouniki="yes">яго+</Form>
+            <Form tag="MDS" slouniki="yes">яму+</Form>
+            <Form tag="MAS" slouniki="yes">яго+</Form>
+            <Form tag="MIS" slouniki="yes">ім</Form>
+            <Form tag="MLS" slouniki="yes">ім</Form>
+            <Form tag="FNS" slouniki="yes">яна+</Form>
+            <Form tag="FGS" slouniki="yes">яе+</Form>
+            <Form tag="FDS" slouniki="yes">ёй</Form>
+            <Form tag="FAS" slouniki="yes">яе+</Form>
+            <Form tag="FIS" slouniki="yes">ёй</Form>
+            <Form tag="FIS" slouniki="yes">ёю</Form>
+            <Form tag="FLS" slouniki="yes">ёй</Form>
+            <Form tag="NNS" slouniki="yes">яно+</Form>
+            <Form tag="NGS" slouniki="yes">яго+</Form>
+            <Form tag="NDS" slouniki="yes">яму+</Form>
+            <Form tag="NAS" slouniki="yes">яго+</Form>
+            <Form tag="NIS" slouniki="yes">ім</Form>
+            <Form tag="NLS" slouniki="yes">ім</Form>
+            <Form tag="0NP" slouniki="yes">яны+</Form>
+            <Form tag="0GP" slouniki="yes">іх</Form>
+            <Form tag="0DP" slouniki="yes">ім</Form>
+            <Form tag="0AP" slouniki="yes">іх</Form>
+            <Form tag="0IP" slouniki="yes">і+мі</Form>
+            <Form tag="0LP" slouniki="yes">іх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127850" lemma="іна+кшы" tag="S">
+        <Variant id="a" lemma="іна+кшы">
+            <Form tag="MNS" slouniki="yes">іна+кшы</Form>
+            <Form tag="MGS" slouniki="yes">іна+кшага</Form>
+            <Form tag="MDS" slouniki="yes">іна+кшаму</Form>
+            <Form tag="MAS" slouniki="yes">іна+кшага</Form>
+            <Form tag="MAS" slouniki="yes">іна+кшы</Form>
+            <Form tag="MIS" slouniki="yes">іна+кшым</Form>
+            <Form tag="MLS" slouniki="yes">іна+кшым</Form>
+            <Form tag="FNS" slouniki="yes">іна+кшая</Form>
+            <Form tag="FGS" slouniki="yes">іна+кшай</Form>
+            <Form tag="FGS" slouniki="yes">іна+кшае</Form>
+            <Form tag="FDS" slouniki="yes">іна+кшай</Form>
+            <Form tag="FAS" slouniki="yes">іна+кшую</Form>
+            <Form tag="FIS" slouniki="yes">іна+кшай</Form>
+            <Form tag="FIS" slouniki="yes">іна+кшаю</Form>
+            <Form tag="FLS" slouniki="yes">іна+кшай</Form>
+            <Form tag="NNS" slouniki="yes">іна+кшае</Form>
+            <Form tag="NGS" slouniki="yes">іна+кшага</Form>
+            <Form tag="NDS" slouniki="yes">іна+кшаму</Form>
+            <Form tag="NAS" slouniki="yes">іна+кшае</Form>
+            <Form tag="NIS" slouniki="yes">іна+кшым</Form>
+            <Form tag="NLS" slouniki="yes">іна+кшым</Form>
+            <Form tag="0NP" slouniki="yes">іна+кшыя</Form>
+            <Form tag="0GP" slouniki="yes">іна+кшых</Form>
+            <Form tag="0DP" slouniki="yes">іна+кшым</Form>
+            <Form tag="0AP" slouniki="yes">іна+кшых</Form>
+            <Form tag="0AP" slouniki="yes">іна+кшыя</Form>
+            <Form tag="0IP" slouniki="yes">іна+кшымі</Form>
+            <Form tag="0LP" slouniki="yes">іна+кшых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127623" lemma="і+ншы" tag="S">
+        <Variant id="a" lemma="і+ншы">
+            <Form tag="MNS" slouniki="yes">і+ншы</Form>
+            <Form tag="MGS" slouniki="yes">і+ншага</Form>
+            <Form tag="MDS" slouniki="yes">і+ншаму</Form>
+            <Form tag="MAS" slouniki="yes">і+ншага</Form>
+            <Form tag="MAS" slouniki="yes">і+ншы</Form>
+            <Form tag="MIS" slouniki="yes">і+ншым</Form>
+            <Form tag="MLS" slouniki="yes">і+ншым</Form>
+            <Form tag="FNS" slouniki="yes">і+ншая</Form>
+            <Form tag="FGS" slouniki="yes">і+ншай</Form>
+            <Form tag="FGS" slouniki="yes">і+ншае</Form>
+            <Form tag="FDS" slouniki="yes">і+ншай</Form>
+            <Form tag="FAS" slouniki="yes">і+ншую</Form>
+            <Form tag="FIS" slouniki="yes">і+ншай</Form>
+            <Form tag="FIS" slouniki="yes">і+ншаю</Form>
+            <Form tag="FLS" slouniki="yes">і+ншай</Form>
+            <Form tag="NNS" slouniki="yes">і+ншае</Form>
+            <Form tag="NGS" slouniki="yes">і+ншага</Form>
+            <Form tag="NDS" slouniki="yes">і+ншаму</Form>
+            <Form tag="NAS" slouniki="yes">і+ншае</Form>
+            <Form tag="NIS" slouniki="yes">і+ншым</Form>
+            <Form tag="NLS" slouniki="yes">і+ншым</Form>
+            <Form tag="0NP" slouniki="yes">і+ншыя</Form>
+            <Form tag="0GP" slouniki="yes">і+ншых</Form>
+            <Form tag="0DP" slouniki="yes">і+ншым</Form>
+            <Form tag="0AP" slouniki="yes">і+ншых</Form>
+            <Form tag="0AP" slouniki="yes">і+ншыя</Form>
+            <Form tag="0IP" slouniki="yes">і+ншымі</Form>
+            <Form tag="0LP" slouniki="yes">і+ншых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127624" lemma="і+хні" tag="S">
+        <Variant id="a" lemma="і+хні">
+            <Form tag="MNS" slouniki="yes">і+хні</Form>
+            <Form tag="MGS" slouniki="yes">і+хняга</Form>
+            <Form tag="MDS" slouniki="yes">і+хняму</Form>
+            <Form tag="MAS" slouniki="yes">і+хні</Form>
+            <Form tag="MAS" slouniki="yes">і+хняга</Form>
+            <Form tag="MIS" slouniki="yes">і+хнім</Form>
+            <Form tag="MLS" slouniki="yes">і+хнім</Form>
+            <Form tag="FNS" slouniki="yes">і+хняя</Form>
+            <Form tag="FGS" slouniki="yes">і+хняй</Form>
+            <Form tag="FGS" slouniki="yes">і+хняе</Form>
+            <Form tag="FDS" slouniki="yes">і+хняй</Form>
+            <Form tag="FAS" slouniki="yes">і+хнюю</Form>
+            <Form tag="FIS" slouniki="yes">і+хняй</Form>
+            <Form tag="FIS" slouniki="yes">і+хняю</Form>
+            <Form tag="FLS" slouniki="yes">і+хняй</Form>
+            <Form tag="NNS" slouniki="yes">і+хняе</Form>
+            <Form tag="NGS" slouniki="yes">і+хняга</Form>
+            <Form tag="NDS" slouniki="yes">і+хняму</Form>
+            <Form tag="NAS" slouniki="yes">і+хняе</Form>
+            <Form tag="NIS" slouniki="yes">і+хнім</Form>
+            <Form tag="NLS" slouniki="yes">і+хнім</Form>
+            <Form tag="0NP" slouniki="yes">і+хнія</Form>
+            <Form tag="0GP" slouniki="yes">і+хніх</Form>
+            <Form tag="0DP" slouniki="yes">і+хнім</Form>
+            <Form tag="0AP" slouniki="yes">і+хнія</Form>
+            <Form tag="0IP" slouniki="yes">і+хнімі</Form>
+            <Form tag="0LP" slouniki="yes">і+хніх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127626" lemma="като+ры" tag="S">
+        <Variant id="a" lemma="като+ры">
+            <Form tag="MNS" slouniki="yes">като+ры</Form>
+            <Form tag="MGS" slouniki="yes">като+рага</Form>
+            <Form tag="MDS" slouniki="yes">като+раму</Form>
+            <Form tag="MAS" slouniki="yes">като+ры</Form>
+            <Form tag="MAS" slouniki="yes">като+рага</Form>
+            <Form tag="MIS" slouniki="yes">като+рым</Form>
+            <Form tag="MLS" slouniki="yes">като+рым</Form>
+            <Form tag="FNS" slouniki="yes">като+рая</Form>
+            <Form tag="FGS" slouniki="yes">като+рай</Form>
+            <Form tag="FGS" slouniki="yes">като+рае</Form>
+            <Form tag="FDS" slouniki="yes">като+рай</Form>
+            <Form tag="FAS" slouniki="yes">като+рую</Form>
+            <Form tag="FIS" slouniki="yes">като+рай</Form>
+            <Form tag="FIS" slouniki="yes">като+раю</Form>
+            <Form tag="FLS" slouniki="yes">като+рай</Form>
+            <Form tag="NNS" slouniki="yes">като+рае</Form>
+            <Form tag="NGS" slouniki="yes">като+рага</Form>
+            <Form tag="NDS" slouniki="yes">като+раму</Form>
+            <Form tag="NAS" slouniki="yes">като+рае</Form>
+            <Form tag="NIS" slouniki="yes">като+рым</Form>
+            <Form tag="NLS" slouniki="yes">като+рым</Form>
+            <Form tag="0NP" slouniki="yes">като+рыя</Form>
+            <Form tag="0GP" slouniki="yes">като+рых</Form>
+            <Form tag="0DP" slouniki="yes">като+рым</Form>
+            <Form tag="0AP" slouniki="yes">като+рыя</Form>
+            <Form tag="0AP" slouniki="yes">като+рых</Form>
+            <Form tag="0IP" slouniki="yes">като+рымі</Form>
+            <Form tag="0LP" slouniki="yes">като+рых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138971" lemma="като+ры-не+будзь" tag="S">
+        <Variant id="a" lemma="като+ры-не+будзь">
+            <Slounik name="piskunou2012" idx="82385">{b}като´ры-не´будзь{/b} {i}займ.{/i}, {i}Р{/i} като´рага-не´будзь ({i}іншыя формы скланення пар.{/i} като´ры) /// </Slounik>
+            <Form tag="MNS" slouniki="yes">като+ры-не+будзь</Form>
+            <Form tag="MGS" slouniki="yes">като+рага-не+будзь</Form>
+            <Form tag="MDS" slouniki="yes">като+раму-не+будзь</Form>
+            <Form tag="MAS" slouniki="yes">като+ры-не+будзь</Form>
+            <Form tag="MAS" slouniki="yes">като+рага-не+будзь</Form>
+            <Form tag="MIS" slouniki="yes">като+рым-не+будзь</Form>
+            <Form tag="MLS" slouniki="yes">като+рым-не+будзь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127864" lemma="ко+жны" tag="S">
+        <Variant id="a" lemma="ко+жны">
+            <Form tag="MNS" slouniki="yes">ко+жны</Form>
+            <Form tag="MNS" slouniki="yes">ко+жын</Form>
+            <Form tag="MGS" slouniki="yes">ко+жнага</Form>
+            <Form tag="MDS" slouniki="yes">ко+жнаму</Form>
+            <Form tag="MAS" slouniki="yes">ко+жнага</Form>
+            <Form tag="MAS" slouniki="yes">ко+жны</Form>
+            <Form tag="MIS" slouniki="yes">ко+жным</Form>
+            <Form tag="MLS" slouniki="yes">ко+жным</Form>
+            <Form tag="FNS" slouniki="yes">ко+жная</Form>
+            <Form tag="FGS" slouniki="yes">ко+жнай</Form>
+            <Form tag="FGS" slouniki="yes">ко+жнае</Form>
+            <Form tag="FDS" slouniki="yes">ко+жнай</Form>
+            <Form tag="FAS" slouniki="yes">ко+жную</Form>
+            <Form tag="FIS" slouniki="yes">ко+жнай</Form>
+            <Form tag="FIS" slouniki="yes">ко+жнаю</Form>
+            <Form tag="FLS" slouniki="yes">ко+жнай</Form>
+            <Form tag="NNS" slouniki="yes">ко+жнае</Form>
+            <Form tag="NGS" slouniki="yes">ко+жнага</Form>
+            <Form tag="NDS" slouniki="yes">ко+жнаму</Form>
+            <Form tag="NAS" slouniki="yes">ко+жнае</Form>
+            <Form tag="NIS" slouniki="yes">ко+жным</Form>
+            <Form tag="NLS" slouniki="yes">ко+жным</Form>
+            <Form tag="0NP" slouniki="yes">ко+жныя</Form>
+            <Form tag="0GP" slouniki="yes">ко+жных</Form>
+            <Form tag="0DP" slouniki="yes">ко+жным</Form>
+            <Form tag="0AP" slouniki="yes">ко+жных</Form>
+            <Form tag="0AP" slouniki="yes">ко+жныя</Form>
+            <Form tag="0IP" slouniki="yes">ко+жнымі</Form>
+            <Form tag="0LP" slouniki="yes">ко+жных</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127865" lemma="ко+лькі" tag="S">
+        <Variant id="a" lemma="ко+лькі">
+            <Slounik name="piskunou2012" idx="85429">{b}ко´лькі{/b}{sup}1{/sup} {i}займ.{/i}, {i}РМ{/i} ко´лькіх, {i}Д{/i} ко´лькім, {i}В{/i} ко´лькі ({i}неадуш.{/i}) {i}і{/i} ко´лькіх ({i}адуш.{/i}), {i}Т{/i} ко´лькімі /// </Slounik>
+            <Form tag="0NP" slouniki="yes">ко+лькі</Form>
+            <Form tag="0GP" slouniki="yes">ко+лькіх</Form>
+            <Form tag="0DP" slouniki="yes">ко+лькім</Form>
+            <Form tag="0AP" slouniki="yes">ко+лькіх</Form>
+            <Form tag="0AP" slouniki="yes">ко+лькі</Form>
+            <Form tag="0IP" slouniki="yes">ко+лькімі</Form>
+            <Form tag="0LP" slouniki="yes">ко+лькіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127866" lemma="ко+лькі-не+будзь" tag="S">
+        <Variant id="a" lemma="ко+лькі-не+будзь">
+            <Form tag="0NP" slouniki="yes">ко+лькі-не+будзь</Form>
+            <Form tag="0GP">ко+лькіх-не+будзь</Form>
+            <Form tag="0DP">ко+лькім-не+будзь</Form>
+            <Form tag="0AP">ко+лькіх-не+будзь</Form>
+            <Form tag="0AP">ко+лькі-не+будзь</Form>
+            <Form tag="0IP">ко+лькімі-не+будзь</Form>
+            <Form tag="0LP">ко+лькіх-не+будзь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127838" lemma="любы+" tag="S">
+        <Variant id="a" lemma="любы+">
+            <Form tag="MNS" slouniki="yes">любы+</Form>
+            <Form tag="MGS">любо+га</Form>
+            <Form tag="MDS">любо+му</Form>
+            <Form tag="MAS">любо+га</Form>
+            <Form tag="MAS">любы+</Form>
+            <Form tag="MIS">любы+м</Form>
+            <Form tag="MLS">любы+м</Form>
+            <Form tag="FNS">люба+я</Form>
+            <Form tag="FGS">любо+й</Form>
+            <Form tag="FDS">любо+й</Form>
+            <Form tag="FAS">любу+ю</Form>
+            <Form tag="FIS">любо+й</Form>
+            <Form tag="FLS">любо+й</Form>
+            <Form tag="NNS">любо+е</Form>
+            <Form tag="NGS">любо+га</Form>
+            <Form tag="NDS">любо+му</Form>
+            <Form tag="NAS">любо+е</Form>
+            <Form tag="NIS">любы+м</Form>
+            <Form tag="NLS">любы+м</Form>
+            <Form tag="0NP">любы+я</Form>
+            <Form tag="0GP">любы+х</Form>
+            <Form tag="0DP">любы+м</Form>
+            <Form tag="0AP">любы+х</Form>
+            <Form tag="0AP">любы+я</Form>
+            <Form tag="0IP">любы+мі</Form>
+            <Form tag="0LP">любы+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127870" lemma="мой" tag="S">
+        <Variant id="a" lemma="мой">
+            <Form tag="MNS" slouniki="yes">мой</Form>
+            <Form tag="MGS" slouniki="yes">майго+</Form>
+            <Form tag="MDS" slouniki="yes">майму+</Form>
+            <Form tag="MAS" slouniki="yes">майго+</Form>
+            <Form tag="MAS" slouniki="yes">мой</Form>
+            <Form tag="MIS" slouniki="yes">маі+м</Form>
+            <Form tag="MLS" slouniki="yes">маі+м</Form>
+            <Form tag="FNS" slouniki="yes">мая+</Form>
+            <Form tag="FGS" slouniki="yes">маёй</Form>
+            <Form tag="FDS" slouniki="yes">маёй</Form>
+            <Form tag="FAS" slouniki="yes">маю+</Form>
+            <Form tag="FIS" slouniki="yes">маёй</Form>
+            <Form tag="FIS" slouniki="yes">маёю</Form>
+            <Form tag="FLS" slouniki="yes">маёй</Form>
+            <Form tag="NNS" slouniki="yes">маё</Form>
+            <Form tag="NGS" slouniki="yes">майго+</Form>
+            <Form tag="NDS" slouniki="yes">майму+</Form>
+            <Form tag="NAS" slouniki="yes">маё</Form>
+            <Form tag="NIS" slouniki="yes">маі+м</Form>
+            <Form tag="NLS" slouniki="yes">маі+м</Form>
+            <Form tag="0NP" slouniki="yes">мае+</Form>
+            <Form tag="0GP" slouniki="yes">маі+х</Form>
+            <Form tag="0DP" slouniki="yes">маі+м</Form>
+            <Form tag="0AP" slouniki="yes">маі+х</Form>
+            <Form tag="0IP" slouniki="yes">маі+мі</Form>
+            <Form tag="0LP" slouniki="yes">маі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1160153" lemma="мы" tag="S">
+        <Variant id="a" lemma="мы">
+            <Slounik name="piskunou2012" idx="101552">{b}мы{/b} {i}займ.{/i}, {i}РВМ{/i} нас, {i}Д{/i} нам, {i}Т{/i} на´мі /// </Slounik>
+            <Form tag="0NP" slouniki="yes">мы</Form>
+            <Form tag="0GP" slouniki="yes">нас</Form>
+            <Form tag="0DP" slouniki="yes">нам</Form>
+            <Form tag="0AP" slouniki="yes">нас</Form>
+            <Form tag="0IP" slouniki="yes">на+мі</Form>
+            <Form tag="0LP" slouniki="yes">нас</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1205421" lemma="на+скі" tag="S">
+        <Variant id="a" lemma="на+скі">
+            <Form tag="MNS" slouniki="yes">на+скі</Form>
+            <Form tag="MGS">на+скага</Form>
+            <Form tag="MDS">на+скаму</Form>
+            <Form tag="MAS">на+скага</Form>
+            <Form tag="MAS">на+скі</Form>
+            <Form tag="MIS">на+скім</Form>
+            <Form tag="MLS">на+скім</Form>
+            <Form tag="FNS">на+ская</Form>
+            <Form tag="FGS">на+скай</Form>
+            <Form tag="FGS">на+скае</Form>
+            <Form tag="FDS">на+скай</Form>
+            <Form tag="FAS">на+скую</Form>
+            <Form tag="FIS">на+скай</Form>
+            <Form tag="FIS">на+скаю</Form>
+            <Form tag="FLS">на+скай</Form>
+            <Form tag="NNS">на+скае</Form>
+            <Form tag="NGS">на+скага</Form>
+            <Form tag="NDS">на+скаму</Form>
+            <Form tag="NAS">на+скае</Form>
+            <Form tag="NIS">на+скім</Form>
+            <Form tag="NLS">на+скім</Form>
+            <Form tag="0NP">на+скія</Form>
+            <Form tag="0GP">на+скіх</Form>
+            <Form tag="0DP">на+скім</Form>
+            <Form tag="0AP">на+скіх</Form>
+            <Form tag="0AP">на+скія</Form>
+            <Form tag="0IP">на+скімі</Form>
+            <Form tag="0LP">на+скіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127840" lemma="наш" tag="S">
+        <Variant id="a" lemma="наш">
+            <Slounik name="piskunou2012" idx="109696">{b}наш{/b} {i}займ.{/i}, {i}м.{/i}, {i}Р{/i} на´шага, {i}Д{/i} на´шаму, {i}В{/i} наш ({i}неадуш.{/i}) {i}і{/i} на´шага ({i}адуш.{/i}), {i}ТМ{/i} на´шым /// </Slounik>
+            <Form tag="MNS" slouniki="yes">наш</Form>
+            <Form tag="MGS" slouniki="yes">на+шага</Form>
+            <Form tag="MDS" slouniki="yes">на+шаму</Form>
+            <Form tag="MAS" slouniki="yes">на+шага</Form>
+            <Form tag="MAS" slouniki="yes">наш</Form>
+            <Form tag="MIS" slouniki="yes">на+шым</Form>
+            <Form tag="MLS" slouniki="yes">на+шым</Form>
+            <Form tag="FNS" slouniki="yes">на+ша</Form>
+            <Form tag="FGS" slouniki="yes">на+шай</Form>
+            <Form tag="FGS" slouniki="yes">на+шае</Form>
+            <Form tag="FDS" slouniki="yes">на+шай</Form>
+            <Form tag="FAS" slouniki="yes">на+шу</Form>
+            <Form tag="FIS" slouniki="yes">на+шай</Form>
+            <Form tag="FIS" slouniki="yes">на+шаю</Form>
+            <Form tag="FLS" slouniki="yes">на+шай</Form>
+            <Form tag="NNS" slouniki="yes">на+ша</Form>
+            <Form tag="NGS" slouniki="yes">на+шага</Form>
+            <Form tag="NDS" slouniki="yes">на+шаму</Form>
+            <Form tag="NAS" slouniki="yes">на+ша</Form>
+            <Form tag="NIS" slouniki="yes">на+шым</Form>
+            <Form tag="NLS" slouniki="yes">на+шым</Form>
+            <Form tag="0NP" slouniki="yes">на+шы</Form>
+            <Form tag="0GP" slouniki="yes">на+шых</Form>
+            <Form tag="0DP" slouniki="yes">на+шым</Form>
+            <Form tag="0AP" slouniki="yes">на+шых</Form>
+            <Form tag="0AP" slouniki="yes">на+шы</Form>
+            <Form tag="0IP" slouniki="yes">на+шымі</Form>
+            <Form tag="0LP" slouniki="yes">на+шых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127841" lemma="не+йкі" tag="S">
+        <Variant id="a" lemma="не+йкі">
+            <Form tag="MNS" slouniki="yes">не+йкі</Form>
+            <Form tag="MGS" slouniki="yes">не+йкага</Form>
+            <Form tag="MDS" slouniki="yes">не+йкаму</Form>
+            <Form tag="MAS" slouniki="yes">не+йкага</Form>
+            <Form tag="MAS" slouniki="yes">не+йкі</Form>
+            <Form tag="MIS" slouniki="yes">не+йкім</Form>
+            <Form tag="MLS" slouniki="yes">не+йкім</Form>
+            <Form tag="NDS" slouniki="yes">не+йкаму</Form>
+            <Form tag="NIS" slouniki="yes">не+йкім</Form>
+            <Form tag="NLS" slouniki="yes">не+йкім</Form>
+            <Form tag="0NP" slouniki="yes">не+йкія</Form>
+            <Form tag="0GP" slouniki="yes">не+йкіх</Form>
+            <Form tag="0DP" slouniki="yes">не+йкім</Form>
+            <Form tag="0AP" slouniki="yes">не+йкіх</Form>
+            <Form tag="0AP" slouniki="yes">не+йкія</Form>
+            <Form tag="0IP" slouniki="yes">не+йкімі</Form>
+            <Form tag="0LP" slouniki="yes">не+йкіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138964" lemma="не+йчы" tag="S">
+        <Variant id="a" lemma="не+йчы">
+            <Slounik name="piskunou2012" idx="112677">{b}не´йчы{/b} {i}займ.{/i} /// </Slounik>
+            <Form tag="MNS" slouniki="yes">не+йчы</Form>
+            <Form tag="MGS" slouniki="yes">не+йчага</Form>
+            <Form tag="MDS" slouniki="yes">не+йчаму</Form>
+            <Form tag="MAS" slouniki="yes">не+йчага</Form>
+            <Form tag="MAS" slouniki="yes">не+йчы</Form>
+            <Form tag="MIS" slouniki="yes">не+йчым</Form>
+            <Form tag="MLS" slouniki="yes">не+йчым</Form>
+            <Form tag="NGS" slouniki="yes">не+йчага</Form>
+            <Form tag="NDS" slouniki="yes">не+йчаму</Form>
+            <Form tag="NIS" slouniki="yes">не+йчым</Form>
+            <Form tag="NLS" slouniki="yes">не+йчым</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127842" lemma="не+калькі" tag="S">
+        <Variant id="a" lemma="не+калькі">
+            <Slounik name="piskunou2012" idx="112697">{b}не´калькі{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} не´калькіх, {i}Д{/i} не´калькім, {i}В{/i} не´калькі ({i}неадуш.{/i}) {i}і{/i} не´калькіх ({i}адуш.{/i}), {i}Т{/i} не´калькімі, {i}М{/i} (аб) не´калькіх /// </Slounik>
+            <Form tag="0NP" slouniki="yes">не+калькі</Form>
+            <Form tag="0GP" slouniki="yes">не+калькіх</Form>
+            <Form tag="0DP" slouniki="yes">не+калькім</Form>
+            <Form tag="0AP" slouniki="yes">не+калькіх</Form>
+            <Form tag="0AP" slouniki="yes">не+калькі</Form>
+            <Form tag="0IP" slouniki="yes">не+калькімі</Form>
+            <Form tag="0LP" slouniki="yes">не+калькіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127629" lemma="некато+ры" tag="S">
+        <Variant id="a" lemma="некато+ры">
+            <Form tag="MNS" slouniki="yes">некато+ры</Form>
+            <Form tag="MGS" slouniki="yes">некато+рага</Form>
+            <Form tag="MDS" slouniki="yes">некато+раму</Form>
+            <Form tag="MAS" slouniki="yes">некато+ры</Form>
+            <Form tag="MAS" slouniki="yes">некато+рага</Form>
+            <Form tag="MIS" slouniki="yes">некато+рым</Form>
+            <Form tag="MLS" slouniki="yes">некато+рым</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1186565" lemma="не+кі" tag="S">
+        <Variant id="a" lemma="не+кі">
+            <Form tag="MNS" slouniki="yes">не+кі</Form>
+            <Form tag="MGS" slouniki="yes">не+кага</Form>
+            <Form tag="MDS" slouniki="yes">не+каму</Form>
+            <Form tag="MAS" slouniki="yes">не+кага</Form>
+            <Form tag="MAS" slouniki="yes">не+кі</Form>
+            <Form tag="MIS" slouniki="yes">не+кім</Form>
+            <Form tag="MLS" slouniki="yes">не+кім</Form>
+            <Form tag="NDS" slouniki="yes">не+каму</Form>
+            <Form tag="NIS" slouniki="yes">не+кім</Form>
+            <Form tag="NLS" slouniki="yes">не+кім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127832" lemma="не+хта" tag="S">
+        <Variant id="a" lemma="не+хта">
+            <Slounik name="piskunou2012" idx="115456">{b}не´хта{/b} {i}займ.{/i}, {i}РВ{/i} не´кага, {i}Д{/i} не´каму, {i}ТМ{/i} не´кім /// </Slounik>
+            <Form tag="0NS" slouniki="yes">не+хта</Form>
+            <Form tag="0GS" slouniki="yes">не+кага</Form>
+            <Form tag="0DS" slouniki="yes">не+каму</Form>
+            <Form tag="0AS" slouniki="yes">не+кага</Form>
+            <Form tag="0IS" slouniki="yes">не+кім</Form>
+            <Form tag="0LS" slouniki="yes">не+кім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127871" lemma="не+чы" tag="S">
+        <Variant id="a" lemma="не+чы">
+            <Form tag="MNS" slouniki="yes">не+чы</Form>
+            <Form tag="MGS" slouniki="yes">не+чага</Form>
+            <Form tag="MDS" slouniki="yes">не+чаму</Form>
+            <Form tag="MAS" slouniki="yes">не+чага</Form>
+            <Form tag="MAS" slouniki="yes">не+чы</Form>
+            <Form tag="MIS" slouniki="yes">не+чым</Form>
+            <Form tag="MLS" slouniki="yes">не+чым</Form>
+            <Form tag="NDS" slouniki="yes">не+чаму</Form>
+            <Form tag="NIS" slouniki="yes">не+чым</Form>
+            <Form tag="NLS" slouniki="yes">не+чым</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127834" lemma="не+шта" tag="S">
+        <Variant id="a" lemma="не+шта">
+            <Slounik name="piskunou2012" idx="115577">{b}не´шта{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} не´чага, {i}Д{/i} не´чаму, {i}В{/i} не´шта, {i}ТМ{/i} не´чым /// </Slounik>
+            <Form tag="0NS" slouniki="yes">не+шта</Form>
+            <Form tag="0GS" slouniki="yes">не+чага</Form>
+            <Form tag="0DS" slouniki="yes">не+чаму</Form>
+            <Form tag="0AS" slouniki="yes">не+шта</Form>
+            <Form tag="0IS" slouniki="yes">не+чым</Form>
+            <Form tag="0LS" slouniki="yes">не+чым</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127811" lemma="ніво+дзін" tag="S">
+        <Variant id="a" lemma="ніво+дзін">
+            <Slounik name="piskunou2012" idx="115672">{b}ніво´дзін{/b} {i}займ.{/i}, {i}м., Р{/i} ніво´днага, {i}Д{/i} -днаму, {i}В{/i} -дзін ({i}неадуш.{/i}) {i}і{/i} -днага ({i}адуш.{/i}), {i}ТМ{/i} -дным /// </Slounik>
+            <Form tag="MNS" slouniki="yes">ніво+дзін</Form>
+            <Form tag="MGS" slouniki="yes">ніво+днага</Form>
+            <Form tag="MDS" slouniki="yes">ніво+днаму</Form>
+            <Form tag="MIS" slouniki="yes">ніво+дным</Form>
+            <Form tag="MLS" slouniki="yes">ніво+дным</Form>
+            <Form tag="NDS" slouniki="yes">ніво+днаму</Form>
+            <Form tag="NIS" slouniki="yes">ніво+дным</Form>
+            <Form tag="NLS" slouniki="yes">ніво+дным</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138970" lemma="ніво+дны" tag="S">
+        <Variant id="a" lemma="ніво+дны">
+            <Form tag="MNS" slouniki="yes">ніво+дны</Form>
+            <Form tag="MGS" slouniki="yes">ніво+днага</Form>
+            <Form tag="MDS" slouniki="yes">ніво+днаму</Form>
+            <Form tag="MAS" slouniki="yes">ніво+дны</Form>
+            <Form tag="MAS" slouniki="yes">ніво+днага</Form>
+            <Form tag="MIS" slouniki="yes">ніво+дным</Form>
+            <Form tag="MLS" slouniki="yes">ніво+дным</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1205423" lemma="нікагу+сенькі" tag="S">
+        <Variant id="a" lemma="нікагу+сенькі">
+            <Form tag="XXX" slouniki="yes">нікагу+сенькі</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127831" lemma="ніхто+" tag="S">
+        <Variant id="a" lemma="ніхто+">
+            <Slounik name="piskunou2012" idx="116092">{b}ніхто´{/b} {i}займ.{/i}, {i}РВ{/i} ніко´га, {i}Д{/i} ніко´му, {i}ТМ{/i} нікі´м /// </Slounik>
+            <Form tag="MNS" slouniki="yes">ніхто+</Form>
+            <Form tag="MGS" slouniki="yes">ніко+га</Form>
+            <Form tag="MDS" slouniki="yes">ніко+му</Form>
+            <Form tag="MAS" slouniki="yes">ніко+га</Form>
+            <Form tag="MIS" slouniki="yes">нікі+м</Form>
+            <Form tag="MLS" slouniki="yes">нікі+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127627" lemma="нічы+й" tag="S">
+        <Variant id="a" lemma="нічы+й">
+            <Form tag="MNS" slouniki="yes">нічы+й</Form>
+            <Form tag="MGS" slouniki="yes">нічыйго+</Form>
+            <Form tag="MDS" slouniki="yes">нічыйму+</Form>
+            <Form tag="MAS" slouniki="yes">нічы+й</Form>
+            <Form tag="MAS" slouniki="yes">нічыйго+</Form>
+            <Form tag="MIS" slouniki="yes">нічыі+м</Form>
+            <Form tag="MLS" slouniki="yes">нічыі+м</Form>
+            <Form tag="FNS" slouniki="yes">нічыя+</Form>
+            <Form tag="FGS" slouniki="yes">нічыёй</Form>
+            <Form tag="FDS" slouniki="yes">нічыёй</Form>
+            <Form tag="FAS" slouniki="yes">нічыю+</Form>
+            <Form tag="FIS" slouniki="yes">нічыёй</Form>
+            <Form tag="FIS" slouniki="yes">нічыёю</Form>
+            <Form tag="FLS" slouniki="yes">нічыёй</Form>
+            <Form tag="NNS" slouniki="yes">нічыё</Form>
+            <Form tag="NGS" slouniki="yes">нічыйго+</Form>
+            <Form tag="NDS" slouniki="yes">нічыйму+</Form>
+            <Form tag="NAS" slouniki="yes">нічыё</Form>
+            <Form tag="NIS" slouniki="yes">нічыі+м</Form>
+            <Form tag="NLS" slouniki="yes">нічыі+м</Form>
+            <Form tag="0NP" slouniki="yes">нічые+</Form>
+            <Form tag="0GP" slouniki="yes">нічыі+х</Form>
+            <Form tag="0DP" slouniki="yes">нічыі+м</Form>
+            <Form tag="0AP" slouniki="yes">нічые+</Form>
+            <Form tag="0AP" slouniki="yes">нічыі+х</Form>
+            <Form tag="0IP" slouniki="yes">нічыі+мі</Form>
+            <Form tag="0LP" slouniki="yes">нічыі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127628" lemma="нічы+йны" tag="S">
+        <Variant id="a" lemma="нічы+йны">
+            <Form tag="MNS" slouniki="yes">нічы+йны</Form>
+            <Form tag="MGS">нічы+йнага</Form>
+            <Form tag="MDS">нічы+йнаму</Form>
+            <Form tag="MAS">нічы+йны</Form>
+            <Form tag="MAS">нічы+йнага</Form>
+            <Form tag="MIS">нічы+йным</Form>
+            <Form tag="MLS">нічы+йным</Form>
+            <Form tag="FNS">нічы+ная</Form>
+            <Form tag="FGS">нічы+йнай</Form>
+            <Form tag="FDS">нічы+йнай</Form>
+            <Form tag="FAS">нічы+ную</Form>
+            <Form tag="FIS">нічы+йнай</Form>
+            <Form tag="FLS">нічы+йнай</Form>
+            <Form tag="NNS">нічы+йнае</Form>
+            <Form tag="NGS">нічы+йнага</Form>
+            <Form tag="NDS">нічы+йнаму</Form>
+            <Form tag="NAS">нічы+йнае</Form>
+            <Form tag="NIS">нічы+йным</Form>
+            <Form tag="NLS">нічы+йным</Form>
+            <Form tag="0NP">нічы+йныя</Form>
+            <Form tag="0GP">нічы+йных</Form>
+            <Form tag="0DP">нічы+йным</Form>
+            <Form tag="0AP">нічы+йныя</Form>
+            <Form tag="0AP">нічы+йных</Form>
+            <Form tag="0IP">нічы+йнымі</Form>
+            <Form tag="0LP">нічы+йных</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127833" lemma="нішто+" tag="S">
+        <Variant id="a" lemma="нішто+">
+            <Slounik name="piskunou2012" idx="116157">{b}нішто´{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} нічо´га, {i}Д{/i} нічо´му, {i}В{/i} нішто´, {i}ТМ{/i} нічы´м /// </Slounik>
+            <Form tag="MNS" slouniki="yes">нішто+</Form>
+            <Form tag="MGS" slouniki="yes">нічо+га</Form>
+            <Form tag="MDS" slouniki="yes">нічо+му</Form>
+            <Form tag="MAS" slouniki="yes">нішто+</Form>
+            <Form tag="MIS" slouniki="yes">нічы+м</Form>
+            <Form tag="MLS" slouniki="yes">нічы+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127817" lemma="нія+кі" tag="S">
+        <Variant id="a" lemma="нія+кі">
+            <Form tag="MNS" slouniki="yes">нія+кі</Form>
+            <Form tag="MGS" slouniki="yes">нія+кага</Form>
+            <Form tag="MDS" slouniki="yes">нія+каму</Form>
+            <Form tag="MAS" slouniki="yes">нія+кага</Form>
+            <Form tag="MAS" slouniki="yes">нія+кі</Form>
+            <Form tag="MIS" slouniki="yes">нія+кім</Form>
+            <Form tag="MLS" slouniki="yes">нія+кім</Form>
+            <Form tag="FNS" slouniki="yes">нія+кая</Form>
+            <Form tag="FGS">нія+кай</Form>
+            <Form tag="FGS">нія+кае</Form>
+            <Form tag="FDS">нія+кай</Form>
+            <Form tag="FAS">нія+кую</Form>
+            <Form tag="FIS">нія+кай</Form>
+            <Form tag="FIS">нія+каю</Form>
+            <Form tag="FLS">нія+кай</Form>
+            <Form tag="NNS" slouniki="yes">нія+кае</Form>
+            <Form tag="NGS">нія+кага</Form>
+            <Form tag="NDS" slouniki="yes">нія+каму</Form>
+            <Form tag="NAS">нія+кае</Form>
+            <Form tag="NIS" slouniki="yes">нія+кім</Form>
+            <Form tag="NLS" slouniki="yes">нія+кім</Form>
+            <Form tag="0NP">нія+кія</Form>
+            <Form tag="0GP">нія+кіх</Form>
+            <Form tag="0DP">нія+кім</Form>
+            <Form tag="0AP">нія+кіх</Form>
+            <Form tag="0AP">нія+кія</Form>
+            <Form tag="0IP">нія+кімі</Form>
+            <Form tag="0LP">нія+кіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127839" lemma="сам" tag="S">
+        <Variant id="a" lemma="сам">
+            <Form tag="MNS" slouniki="yes">сам</Form>
+            <Form tag="MGS" slouniki="yes">само+га</Form>
+            <Form tag="MDS" slouniki="yes">само+му</Form>
+            <Form tag="MAS" slouniki="yes">само+га</Form>
+            <Form tag="MIS" slouniki="yes">самі+м</Form>
+            <Form tag="MLS" slouniki="yes">самі+м</Form>
+            <Form tag="FNS" slouniki="yes">сама+</Form>
+            <Form tag="FGS" slouniki="yes">само+й</Form>
+            <Form tag="FDS" slouniki="yes">само+й</Form>
+            <Form tag="FAS" slouniki="yes">саму+</Form>
+            <Form tag="FAS" slouniki="yes">саму+ю</Form>
+            <Form tag="FIS" slouniki="yes">само+й</Form>
+            <Form tag="FLS" slouniki="yes">само+й</Form>
+            <Form tag="NNS" slouniki="yes">само+</Form>
+            <Form tag="NGS" slouniki="yes">само+га</Form>
+            <Form tag="NDS" slouniki="yes">само+му</Form>
+            <Form tag="NAS" slouniki="yes">само+е</Form>
+            <Form tag="NIS" slouniki="yes">самі+м</Form>
+            <Form tag="NLS" slouniki="yes">самі+м</Form>
+            <Form tag="0NP" slouniki="yes">са+мі</Form>
+            <Form tag="0GP" slouniki="yes">самі+х</Form>
+            <Form tag="0DP" slouniki="yes">самі+м</Form>
+            <Form tag="0AP" slouniki="yes">самі+х</Form>
+            <Form tag="0AP" slouniki="yes">са+мі</Form>
+            <Form tag="0IP" slouniki="yes">самі+мі</Form>
+            <Form tag="0LP" slouniki="yes">самі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127818" lemma="са+мы" tag="S">
+        <Variant id="a" lemma="са+мы">
+            <Form tag="MNS" slouniki="yes">са+мы</Form>
+            <Form tag="MGS" slouniki="yes">са+мага</Form>
+            <Form tag="MDS" slouniki="yes">са+маму</Form>
+            <Form tag="MAS" slouniki="yes">са+мага</Form>
+            <Form tag="MAS" slouniki="yes">са+мы</Form>
+            <Form tag="MIS" slouniki="yes">са+мым</Form>
+            <Form tag="MLS" slouniki="yes">са+мым</Form>
+            <Form tag="FNS" slouniki="yes">са+мая</Form>
+            <Form tag="FGS" slouniki="yes">са+май</Form>
+            <Form tag="FGS" slouniki="yes">са+мае</Form>
+            <Form tag="FDS" slouniki="yes">са+май</Form>
+            <Form tag="FAS" slouniki="yes">са+мую</Form>
+            <Form tag="FIS" slouniki="yes">са+май</Form>
+            <Form tag="FIS" slouniki="yes">са+маю</Form>
+            <Form tag="FLS" slouniki="yes">са+май</Form>
+            <Form tag="NNS" slouniki="yes">са+мае</Form>
+            <Form tag="NGS" slouniki="yes">са+мага</Form>
+            <Form tag="NDS" slouniki="yes">са+маму</Form>
+            <Form tag="NAS" slouniki="yes">са+мае</Form>
+            <Form tag="NIS" slouniki="yes">са+мым</Form>
+            <Form tag="NLS" slouniki="yes">са+мым</Form>
+            <Form tag="0NP" slouniki="yes">са+мыя</Form>
+            <Form tag="0GP" slouniki="yes">са+мых</Form>
+            <Form tag="0DP" slouniki="yes">са+мым</Form>
+            <Form tag="0AP" slouniki="yes">са+мых</Form>
+            <Form tag="0AP" slouniki="yes">са+мыя</Form>
+            <Form tag="0IP" slouniki="yes">са+мымі</Form>
+            <Form tag="0LP" slouniki="yes">са+мых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127835" lemma="свой" tag="S">
+        <Variant id="a" lemma="свой">
+            <Form tag="MNS" slouniki="yes">свой</Form>
+            <Form tag="MGS" slouniki="yes">свайго+</Form>
+            <Form tag="MDS" slouniki="yes">свайму+</Form>
+            <Form tag="MAS" slouniki="yes">свайго+</Form>
+            <Form tag="MAS" slouniki="yes">свой</Form>
+            <Form tag="MIS" slouniki="yes">сваі+м</Form>
+            <Form tag="MLS" slouniki="yes">сваі+м</Form>
+            <Form tag="FNS" slouniki="yes">свая+</Form>
+            <Form tag="FGS" slouniki="yes">сваёй</Form>
+            <Form tag="FDS" slouniki="yes">сваёй</Form>
+            <Form tag="FAS" slouniki="yes">сваю+</Form>
+            <Form tag="FIS" slouniki="yes">сваёй</Form>
+            <Form tag="FIS" slouniki="yes">сваёю</Form>
+            <Form tag="FLS" slouniki="yes">сваёй</Form>
+            <Form tag="NNS" slouniki="yes">сваё</Form>
+            <Form tag="NGS" slouniki="yes">свайго+</Form>
+            <Form tag="NDS" slouniki="yes">свайму+</Form>
+            <Form tag="NAS" slouniki="yes">сваё</Form>
+            <Form tag="NIS" slouniki="yes">сваі+м</Form>
+            <Form tag="NLS" slouniki="yes">сваі+м</Form>
+            <Form tag="0NP" slouniki="yes">свае+</Form>
+            <Form tag="0GP" slouniki="yes">сваі+х</Form>
+            <Form tag="0DP" slouniki="yes">сваі+м</Form>
+            <Form tag="0AP" slouniki="yes">сваі+х</Form>
+            <Form tag="0AP" slouniki="yes">свае+</Form>
+            <Form tag="0IP" slouniki="yes">сваі+мі</Form>
+            <Form tag="0LP" slouniki="yes">сваі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127846" lemma="сёй-той" tag="S">
+        <Variant id="a" lemma="сёй-той">
+            <Slounik name="piskunou2012" idx="175097">{b}сёй-то´й{/b}* {i}займ.{/i}, {i}м. Р{/i} сяго´-таго´, {i}Д{/i} сяму´-таму´, {i}В{/i} сяго´-таго´, {i}ТМ{/i} сім-тым /// </Slounik>
+            <Form tag="MGS" slouniki="yes">сяго+-таго+</Form>
+            <Form tag="MDS" slouniki="yes">сяму+-таму+</Form>
+            <Form tag="NDS" slouniki="yes">сяму+-таму+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127868" lemma="сто+лькі" tag="S">
+        <Variant id="a" lemma="сто+лькі">
+            <Slounik name="piskunou2012" idx="182728">{b}сто´лькі{/b}{sup}1{/sup} {i}займ.{/i}, {i}РМ{/i} сто´лькіх, {i}Д{/i} сто´лькім, {i}В{/i} сто´лькі ({i}неадуш.{/i}) {i}і{/i} сто´лькіх ({i}адуш.{/i}){i}, Т{/i} сто´лькімі /// </Slounik>
+            <Form tag="0NP" slouniki="yes">сто+лькі</Form>
+            <Form tag="0GP" slouniki="yes">сто+лькіх</Form>
+            <Form tag="0DP" slouniki="yes">сто+лькім</Form>
+            <Form tag="0AP" slouniki="yes">сто+лькіх</Form>
+            <Form tag="0AP" slouniki="yes">сто+лькі</Form>
+            <Form tag="0IP" slouniki="yes">сто+лькімі</Form>
+            <Form tag="0LP" slouniki="yes">сто+лькіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127806" lemma="сябе+" tag="S">
+        <Variant id="a" lemma="сябе+">
+            <Slounik name="piskunou2012" idx="187070">{b}сябе´{/b} {i}займ.{/i}, {i}Р{/i} сябе´, {i}ДМ{/i} сабе´, {i}Т{/i} сабо´й {i}і{/i} сабо´ю /// </Slounik>
+            <Form tag="0NS" slouniki="yes">сябе+</Form>
+            <Form tag="0GS" slouniki="yes">сябе+</Form>
+            <Form tag="0DS" slouniki="yes">сабе+</Form>
+            <Form tag="0AS" slouniki="yes">сябе+</Form>
+            <Form tag="0IS" slouniki="yes">сабо+й</Form>
+            <Form tag="0IS" slouniki="yes">сабо+ю</Form>
+            <Form tag="0LS" slouniki="yes">сабе+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127837" lemma="сякі+-такі+" tag="S">
+        <Variant id="a" lemma="сякі+-такі+">
+            <Slounik name="piskunou2012" idx="187174">{b}сякі´-такі´{/b}* {i}займ.{/i} {i}Р{/i} сяко´га-тако´га /// </Slounik>
+            <Form tag="MNS" slouniki="yes">сякі+-такі+</Form>
+            <Form tag="MGS" slouniki="yes">сяко+га-тако+га</Form>
+            <Form tag="MDS" slouniki="yes">сяко+му-тако+му</Form>
+            <Form tag="MAS" slouniki="yes">сяко+га-тако+га</Form>
+            <Form tag="MAS" slouniki="yes">сякі+-такі+</Form>
+            <Form tag="MIS" slouniki="yes">сякі+м-такі+м</Form>
+            <Form tag="MLS" slouniki="yes">сякі+м-такі+м</Form>
+            <Form tag="FNS" slouniki="yes">сяка+я-така+я</Form>
+            <Form tag="FGS">сяко+й-тако+й</Form>
+            <Form tag="FGS">сяко+е-тако+е</Form>
+            <Form tag="FDS">сяко+й-тако+й</Form>
+            <Form tag="FAS">сяку+ю-таку+ю</Form>
+            <Form tag="FIS">сяко+й-тако+й</Form>
+            <Form tag="FIS">сяко+ю-тако+ю</Form>
+            <Form tag="FLS">сяко+й-тако+й</Form>
+            <Form tag="NNS" slouniki="yes">сяко+е-тако+е</Form>
+            <Form tag="NGS" slouniki="yes">сяко+га-тако+га</Form>
+            <Form tag="NDS" slouniki="yes">сяко+му-тако+му</Form>
+            <Form tag="NAS" slouniki="yes">сяко+е-тако+е</Form>
+            <Form tag="NIS" slouniki="yes">сякі+м-такі+м</Form>
+            <Form tag="NLS" slouniki="yes">сякі+м-такі+м</Form>
+            <Form tag="0NP" slouniki="yes">сякі+я-такі+я</Form>
+            <Form tag="0GP" slouniki="yes">сякі+х-такі+х</Form>
+            <Form tag="0DP" slouniki="yes">сякі+м-такі+м</Form>
+            <Form tag="0AP" slouniki="yes">сякі+х-такі+х</Form>
+            <Form tag="0AP" slouniki="yes">сякі+я-такі+я</Form>
+            <Form tag="0IP" slouniki="yes">сякі+мі-такі+мі</Form>
+            <Form tag="0LP" slouniki="yes">сякі+х-такі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127836" lemma="такі+" tag="S">
+        <Variant id="a" lemma="такі+">
+            <Form tag="MNS" slouniki="yes">такі+</Form>
+            <Form tag="MGS" slouniki="yes">тако+га</Form>
+            <Form tag="MDS" slouniki="yes">тако+му</Form>
+            <Form tag="MAS" slouniki="yes">тако+га</Form>
+            <Form tag="MAS" slouniki="yes">такі+</Form>
+            <Form tag="MIS" slouniki="yes">такі+м</Form>
+            <Form tag="MLS" slouniki="yes">такі+м</Form>
+            <Form tag="FNS" slouniki="yes">така+я</Form>
+            <Form tag="FGS">тако+й</Form>
+            <Form tag="FDS">тако+й</Form>
+            <Form tag="FAS">таку+ю</Form>
+            <Form tag="FIS">тако+й</Form>
+            <Form tag="FIS">тако+ю</Form>
+            <Form tag="FLS">тако+й</Form>
+            <Form tag="NNS" slouniki="yes">тако+е</Form>
+            <Form tag="NGS">тако+га</Form>
+            <Form tag="NDS">тако+му</Form>
+            <Form tag="NAS">тако+е</Form>
+            <Form tag="NIS">такі+м</Form>
+            <Form tag="NLS">такі+м</Form>
+            <Form tag="0NP">такі+я</Form>
+            <Form tag="0GP">такі+х</Form>
+            <Form tag="0DP">такі+м</Form>
+            <Form tag="0AP">такі+х</Form>
+            <Form tag="0AP">такі+я</Form>
+            <Form tag="0IP">такі+мі</Form>
+            <Form tag="0LP">такі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1186566" lemma="такі+-сякі+" tag="S">
+        <Variant id="a" lemma="такі+-сякі+">
+            <Slounik name="piskunou2012" idx="187824">{b}такі´-сякі´{/b}* {i}займ.{/i} {i}Р{/i} тако´га-сяко´га /// </Slounik>
+            <Form tag="MNS" slouniki="yes">такі+-сякі+</Form>
+            <Form tag="MGS" slouniki="yes">тако+га-сяко+га</Form>
+            <Form tag="MDS" slouniki="yes">тако+му-сяко+му</Form>
+            <Form tag="MAS" slouniki="yes">тако+га-сяко+га</Form>
+            <Form tag="MAS" slouniki="yes">такі+-сякі+</Form>
+            <Form tag="MIS" slouniki="yes">такі+м-сякі+м</Form>
+            <Form tag="MLS" slouniki="yes">такі+м-сякі+м</Form>
+            <Form tag="NDS" slouniki="yes">тако+му-сяко+му</Form>
+            <Form tag="NIS" slouniki="yes">такі+м-сякі+м</Form>
+            <Form tag="NLS" slouniki="yes">такі+м-сякі+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127847" lemma="твой" tag="S">
+        <Variant id="a" lemma="твой">
+            <Form tag="MNS" slouniki="yes">твой</Form>
+            <Form tag="MGS" slouniki="yes">твайго+</Form>
+            <Form tag="MDS" slouniki="yes">твайму+</Form>
+            <Form tag="MAS" slouniki="yes">твайго+</Form>
+            <Form tag="MAS" slouniki="yes">твой</Form>
+            <Form tag="MIS" slouniki="yes">тваі+м</Form>
+            <Form tag="MLS" slouniki="yes">тваі+м</Form>
+            <Form tag="FNS" slouniki="yes">твая+</Form>
+            <Form tag="FGS" slouniki="yes">тваёй</Form>
+            <Form tag="FDS" slouniki="yes">тваёй</Form>
+            <Form tag="FAS" slouniki="yes">тваю+</Form>
+            <Form tag="FIS" slouniki="yes">тваёй</Form>
+            <Form tag="FIS" slouniki="yes">тваёю</Form>
+            <Form tag="FLS" slouniki="yes">тваёй</Form>
+            <Form tag="NNS" slouniki="yes">тваё</Form>
+            <Form tag="NGS" slouniki="yes">твайго+</Form>
+            <Form tag="NDS" slouniki="yes">твайму+</Form>
+            <Form tag="NAS" slouniki="yes">тваё</Form>
+            <Form tag="NIS" slouniki="yes">тваі+м</Form>
+            <Form tag="NLS" slouniki="yes">тваі+м</Form>
+            <Form tag="0NP" slouniki="yes">твае+</Form>
+            <Form tag="0GP">тваі+х</Form>
+            <Form tag="0DP">тваі+м</Form>
+            <Form tag="0AP">тваі+х</Form>
+            <Form tag="0AP">твае+</Form>
+            <Form tag="0IP">тваі+мі</Form>
+            <Form tag="0LP">тваі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127843" lemma="той" tag="S">
+        <Variant id="a" lemma="той">
+            <Form tag="MNS" slouniki="yes">той</Form>
+            <Form tag="MGS" slouniki="yes">таго+</Form>
+            <Form tag="MDS" slouniki="yes">таму+</Form>
+            <Form tag="MAS" slouniki="yes">таго+</Form>
+            <Form tag="MAS" slouniki="yes">той</Form>
+            <Form tag="MIS" slouniki="yes">тым</Form>
+            <Form tag="MLS" slouniki="yes">тым</Form>
+            <Form tag="FNS" slouniki="yes">та+я</Form>
+            <Form tag="FGS" slouniki="yes">той</Form>
+            <Form tag="FDS" slouniki="yes">той</Form>
+            <Form tag="FAS" slouniki="yes">ту+ю</Form>
+            <Form tag="FIS" slouniki="yes">той</Form>
+            <Form tag="FIS" slouniki="yes">то+ю</Form>
+            <Form tag="FLS" slouniki="yes">той</Form>
+            <Form tag="NNS" slouniki="yes">то+е</Form>
+            <Form tag="NGS" slouniki="yes">таго+</Form>
+            <Form tag="NDS" slouniki="yes">таму+</Form>
+            <Form tag="NAS" slouniki="yes">то+е</Form>
+            <Form tag="NIS" slouniki="yes">тым</Form>
+            <Form tag="NLS" slouniki="yes">тым</Form>
+            <Form tag="0NP" slouniki="yes">ты+я</Form>
+            <Form tag="0GP">тых</Form>
+            <Form tag="0DP" slouniki="yes">тым</Form>
+            <Form tag="0AP">тых</Form>
+            <Form tag="0AP">ты+я</Form>
+            <Form tag="0IP">ты+мі</Form>
+            <Form tag="0LP">тых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138972" lemma="той-сёй" tag="S">
+        <Variant id="a" lemma="той-сёй">
+            <Slounik name="piskunou2012" idx="189262">{b}той-сёй{/b}* {i}займ.{/i}, {i}м. Р{/i} таго´-сяго´, {i}Д{/i} таму´-сяму´, {i}В{/i} таго´-сяго´, {i}ТМ{/i} тым-сім /// </Slounik>
+            <Form tag="MNS" slouniki="yes">той-сёй</Form>
+            <Form tag="MGS">таго+-сяго+</Form>
+            <Form tag="MDS">таму+-сяму+</Form>
+            <Form tag="MAS">таго+-сяго+</Form>
+            <Form tag="MAS">той-сёй</Form>
+            <Form tag="MIS">тым-сім</Form>
+            <Form tag="MLS">тым-сім</Form>
+            <Form tag="FNS">та+я-ся+я</Form>
+            <Form tag="FGS">той-сёй</Form>
+            <Form tag="FDS">той-сёй</Form>
+            <Form tag="FAS">ту+ю-сю+ю</Form>
+            <Form tag="FIS">той-сёй</Form>
+            <Form tag="FLS">той-сёй</Form>
+            <Form tag="NNS" slouniki="yes">тое-сёе</Form>
+            <Form tag="NGS">таго+-сяго+</Form>
+            <Form tag="NDS">таму+-сяму+</Form>
+            <Form tag="NAS">то+е-сёе</Form>
+            <Form tag="NIS">тым-сім</Form>
+            <Form tag="NLS">тым-сім</Form>
+            <Form tag="0NP">ты+я-сі+я</Form>
+            <Form tag="0GP">тых-сіх</Form>
+            <Form tag="0DP">тым-сім</Form>
+            <Form tag="0AP">тых-сіх</Form>
+            <Form tag="0AP">ты+я-сі+я</Form>
+            <Form tag="0IP">ты+мі-сі+мі</Form>
+            <Form tag="0LP">тых-сіх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138973" lemma="трэ+ці" tag="S">
+        <Variant id="a" lemma="трэ+ці">
+            <Form tag="MNS" slouniki="yes">трэ+ці</Form>
+            <Form tag="MGS">трэ+цяга</Form>
+            <Form tag="MDS">трэ+цяму</Form>
+            <Form tag="MAS">трэ+цяга</Form>
+            <Form tag="MAS">трэ+ці</Form>
+            <Form tag="MIS">трэ+цім</Form>
+            <Form tag="MLS">трэ+цім</Form>
+            <Form tag="FNS">трэ+цяя</Form>
+            <Form tag="FGS">трэ+цяй</Form>
+            <Form tag="FDS">трэ+цяй</Form>
+            <Form tag="FAS">трэ+цюю</Form>
+            <Form tag="FIS">трэ+цяй</Form>
+            <Form tag="FLS">трэ+цяй</Form>
+            <Form tag="NNS">трэ+цяе</Form>
+            <Form tag="NGS">трэ+цяга</Form>
+            <Form tag="NDS">трэ+цяму</Form>
+            <Form tag="NAS">трэ+цяе</Form>
+            <Form tag="NIS">трэ+цім</Form>
+            <Form tag="NLS">трэ+цім</Form>
+            <Form tag="0NP">трэ+ція</Form>
+            <Form tag="0GP">трэ+ціх</Form>
+            <Form tag="0DP">трэ+цім</Form>
+            <Form tag="0AP">трэ+ціх</Form>
+            <Form tag="0AP">трэ+ція</Form>
+            <Form tag="0IP">трэ+цімі</Form>
+            <Form tag="0LP">трэ+ціх</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127808" lemma="ты" tag="S">
+        <Variant id="a" lemma="ты">
+            <Slounik name="piskunou2012" idx="191995">{b}ты{/b} {i}займ.{/i}, {i}РВ{/i} цябе´, {i}ДМ{/i} табе´, {i}Т{/i} табо´й {i}і{/i} табо´ю /// </Slounik>
+            <Form tag="0NS" slouniki="yes">ты</Form>
+            <Form tag="0GS" slouniki="yes">цябе+</Form>
+            <Form tag="0DS" slouniki="yes">табе+</Form>
+            <Form tag="0AS" slouniki="yes">цябе+</Form>
+            <Form tag="0IS" slouniki="yes">табо+й</Form>
+            <Form tag="0IS" slouniki="yes">табо+ю</Form>
+            <Form tag="0LS" slouniki="yes">табе+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127848" lemma="уве+сь" tag="S">
+        <Variant id="a" lemma="уве+сь">
+            <Form tag="MNS" slouniki="yes">уве+сь</Form>
+            <Form tag="MGS" slouniki="yes">усяго+</Form>
+            <Form tag="MDS" slouniki="yes">усяму+</Form>
+            <Form tag="MAS" slouniki="yes">усяго+</Form>
+            <Form tag="MAS" slouniki="yes">уве+сь</Form>
+            <Form tag="MIS" slouniki="yes">усі+м</Form>
+            <Form tag="MLS" slouniki="yes">усі+м</Form>
+            <Form tag="FNS" slouniki="yes">уся+</Form>
+            <Form tag="FGS" slouniki="yes">усёй</Form>
+            <Form tag="FGS" slouniki="yes">усяе+</Form>
+            <Form tag="FDS" slouniki="yes">усёй</Form>
+            <Form tag="FAS" slouniki="yes">усю+</Form>
+            <Form tag="FIS" slouniki="yes">усёй</Form>
+            <Form tag="FIS" slouniki="yes">усёю</Form>
+            <Form tag="FLS" slouniki="yes">усёй</Form>
+            <Form tag="NNS" slouniki="yes">усё</Form>
+            <Form tag="NGS" slouniki="yes">усяго+</Form>
+            <Form tag="NDS" slouniki="yes">усяму+</Form>
+            <Form tag="NAS" slouniki="yes">усё</Form>
+            <Form tag="NIS" slouniki="yes">усі+м</Form>
+            <Form tag="NLS" slouniki="yes">усі+м</Form>
+            <Form tag="0NP" slouniki="yes">усе+</Form>
+            <Form tag="0GP" slouniki="yes">усі+х</Form>
+            <Form tag="0DP" slouniki="yes">усі+м</Form>
+            <Form tag="0AP" slouniki="yes">усі+х</Form>
+            <Form tag="0AP" slouniki="yes">усе+</Form>
+            <Form tag="0IP" slouniki="yes">усі+мі</Form>
+            <Form tag="0LP" slouniki="yes">усі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127849" lemma="уся+кі" tag="S">
+        <Variant id="a" lemma="уся+кі">
+            <Form tag="MNS" slouniki="yes">уся+кі</Form>
+            <Form tag="MGS" slouniki="yes">уся+кага</Form>
+            <Form tag="MDS" slouniki="yes">уся+каму</Form>
+            <Form tag="MAS" slouniki="yes">уся+кага</Form>
+            <Form tag="MAS" slouniki="yes">уся+кі</Form>
+            <Form tag="MIS" slouniki="yes">уся+кім</Form>
+            <Form tag="MLS" slouniki="yes">уся+кім</Form>
+            <Form tag="NDS" slouniki="yes">уся+каму</Form>
+            <Form tag="NIS" slouniki="yes">уся+кім</Form>
+            <Form tag="NLS" slouniki="yes">уся+кім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127851" lemma="усяля+кі" tag="S">
+        <Variant id="a" lemma="усяля+кі">
+            <Form tag="MNS" slouniki="yes">усяля+кі</Form>
+            <Form tag="MGS" slouniki="yes">усяля+кага</Form>
+            <Form tag="MDS" slouniki="yes">усяля+каму</Form>
+            <Form tag="MAS" slouniki="yes">усяля+кага</Form>
+            <Form tag="MAS" slouniki="yes">усяля+кі</Form>
+            <Form tag="MIS" slouniki="yes">усяля+кім</Form>
+            <Form tag="MLS" slouniki="yes">усяля+кім</Form>
+            <Form tag="NDS" slouniki="yes">усяля+каму</Form>
+            <Form tag="NIS" slouniki="yes">усяля+кім</Form>
+            <Form tag="NLS" slouniki="yes">усяля+кім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127820" lemma="хто" tag="S">
+        <Variant id="a" lemma="хто">
+            <Slounik name="piskunou2012" idx="205863">{b}хто{/b} {i}займ.{/i}, {i}РВ{/i} каго´, {i}Д{/i} каму´, {i}ТМ{/i} кім /// </Slounik>
+            <Form tag="MNS" slouniki="yes">хто</Form>
+            <Form tag="MGS" slouniki="yes">каго+</Form>
+            <Form tag="MDS" slouniki="yes">каму+</Form>
+            <Form tag="MAS" slouniki="yes">каго+</Form>
+            <Form tag="MIS" slouniki="yes">кім</Form>
+            <Form tag="MLS" slouniki="yes">кім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1186567" lemma="хто-ко+лечы" tag="S">
+        <Variant id="a" lemma="хто-ко+лечы">
+            <Slounik name="piskunou2012" idx="205865">{b}хто-ко´лечы{/b} {i}займ.{/i}, {i}РВ{/i} каго´-ко´лечы, {i}Д{/i} каму´-ко´лечы, {i}ТМ{/i} кім-ко´лечы /// </Slounik>
+            <Form tag="MNS" slouniki="yes">хто-ко+лечы</Form>
+            <Form tag="MGS" slouniki="yes">каго+-ко+лечы</Form>
+            <Form tag="MDS" slouniki="yes">каму+-ко+лечы</Form>
+            <Form tag="MAS" slouniki="yes">каго+-ко+лечы</Form>
+            <Form tag="MIS" slouniki="yes">кім-ко+лечы</Form>
+            <Form tag="MLS" slouniki="yes">кім-ко+лечы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127823" lemma="хто-не+будзь" tag="S">
+        <Variant id="a" lemma="хто-не+будзь">
+            <Slounik name="piskunou2012" idx="205867">{b}хто-не´будзь{/b} {i}займ.{/i}, {i}РВ{/i} каго´-не´будзь, {i}Д{/i} каму´-не´будзь, {i}ТМ{/i} кім-не´будзь /// </Slounik>
+            <Form tag="MNS" slouniki="yes">хто-не+будзь</Form>
+            <Form tag="MGS" slouniki="yes">каго+-не+будзь</Form>
+            <Form tag="MDS" slouniki="yes">каму+-не+будзь</Form>
+            <Form tag="MAS" slouniki="yes">каго+-не+будзь</Form>
+            <Form tag="MIS" slouniki="yes">кім-не+будзь</Form>
+            <Form tag="MLS" slouniki="yes">кім-не+будзь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1138965" lemma="хто-ніхто+" tag="S">
+        <Variant id="a" lemma="хто-ніхто+">
+            <Slounik name="piskunou2012" idx="205868">{b}хто-ніхто´{/b} {i}займ.{/i}, {i}РВ{/i} каго´-нікаго´, {i}Д{/i} каму´-нікаму´, {i}ТМ{/i} кім-нікі´м /// </Slounik>
+            <Form tag="MNS" slouniki="yes">хто-ніхто+</Form>
+            <Form tag="MGS" slouniki="yes">каго+-нікаго+</Form>
+            <Form tag="MDS" slouniki="yes">каму+-нікаму+</Form>
+            <Form tag="MAS" slouniki="yes">каго+-нікаго+</Form>
+            <Form tag="MIS" slouniki="yes">кім-нікі+м</Form>
+            <Form tag="MLS" slouniki="yes">кім-нікі+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127822" lemma="хтось" tag="S">
+        <Variant id="a" lemma="хтось">
+            <Slounik name="piskunou2012" idx="205869">{b}хтось{/b}* {i}займ.{/i} {i}РВ{/i} каго´сь, {i}Д{/i} каму´сь, {i}ТМ{/i} кімсь /// </Slounik>
+            <Form tag="MNS" slouniki="yes">хтось</Form>
+            <Form tag="MGS" slouniki="yes">каго+сь</Form>
+            <Form tag="MDS" slouniki="yes">каму+сь</Form>
+            <Form tag="MAS" slouniki="yes">каго+сь</Form>
+            <Form tag="MIS" slouniki="yes">кімсь</Form>
+            <Form tag="MLS" slouniki="yes">кімсь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127821" lemma="хто+сьці" tag="S">
+        <Variant id="a" lemma="хто+сьці">
+            <Slounik name="piskunou2012" idx="205870">{b}хто´сьці{/b} {i}займ.{/i}, {i}РВ{/i} каго´сьці, {i}Д{/i} каму´сьці, {i}ТМ{/i} кі´мсьці /// </Slounik>
+            <Form tag="MNS" slouniki="yes">хто+сьці</Form>
+            <Form tag="MGS" slouniki="yes">каго+сьці</Form>
+            <Form tag="MDS" slouniki="yes">каму+сьці</Form>
+            <Form tag="MAS" slouniki="yes">каго+сьці</Form>
+            <Form tag="MIS" slouniki="yes">кі+мсьці</Form>
+            <Form tag="MLS" slouniki="yes">кі+мсьці</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127852" lemma="чый" tag="S">
+        <Variant id="a" lemma="чый">
+            <Form tag="MNS" slouniki="yes">чый</Form>
+            <Form tag="MGS" slouniki="yes">чыйго+</Form>
+            <Form tag="MDS" slouniki="yes">чыйму+</Form>
+            <Form tag="MAS" slouniki="yes">чыйго+</Form>
+            <Form tag="MAS" slouniki="yes">чый</Form>
+            <Form tag="MIS" slouniki="yes">чыі+м</Form>
+            <Form tag="MLS" slouniki="yes">чыі+м</Form>
+            <Form tag="FNS" slouniki="yes">чыя+</Form>
+            <Form tag="FGS" slouniki="yes">чыёй</Form>
+            <Form tag="FDS" slouniki="yes">чыёй</Form>
+            <Form tag="FAS" slouniki="yes">чыю+</Form>
+            <Form tag="FIS" slouniki="yes">чыёй</Form>
+            <Form tag="FIS" slouniki="yes">чыёю</Form>
+            <Form tag="FLS" slouniki="yes">чыёй</Form>
+            <Form tag="NNS" slouniki="yes">чыё</Form>
+            <Form tag="NGS" slouniki="yes">чыйго+</Form>
+            <Form tag="NDS" slouniki="yes">чыйму+</Form>
+            <Form tag="NAS" slouniki="yes">чыё</Form>
+            <Form tag="NIS" slouniki="yes">чыі+м</Form>
+            <Form tag="NLS" slouniki="yes">чыі+м</Form>
+            <Form tag="0NP" slouniki="yes">чые+</Form>
+            <Form tag="0GP" slouniki="yes">чыі+х</Form>
+            <Form tag="0DP" slouniki="yes">чыі+м</Form>
+            <Form tag="0AP" slouniki="yes">чыі+х</Form>
+            <Form tag="0AP" slouniki="yes">чые+</Form>
+            <Form tag="0IP" slouniki="yes">чыі+мі</Form>
+            <Form tag="0LP" slouniki="yes">чыі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1205428" lemma="чый-ко+лечы" tag="S">
+        <Variant id="a" lemma="чый-ко+лечы">
+            <Form tag="MNS" slouniki="yes">чый-ко+лечы</Form>
+            <Form tag="MGS" slouniki="yes">чыйго+-ко+лечы</Form>
+            <Form tag="MDS" slouniki="yes">чыйму+-ко+лечы</Form>
+            <Form tag="MAS" slouniki="yes">чыйго+-ко+лечы</Form>
+            <Form tag="MAS" slouniki="yes">чый-ко+лечы</Form>
+            <Form tag="MIS" slouniki="yes">чыі+м-ко+лечы</Form>
+            <Form tag="MLS" slouniki="yes">чыі+м-ко+лечы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127853" lemma="чый-не+будзь" tag="S">
+        <Variant id="a" lemma="чый-не+будзь">
+            <Form tag="MNS" slouniki="yes">чый-не+будзь</Form>
+            <Form tag="MGS" slouniki="yes">чыйго+-не+будзь</Form>
+            <Form tag="MDS" slouniki="yes">чыйму+-не+будзь</Form>
+            <Form tag="MIS" slouniki="yes">чыі+м-не+будзь</Form>
+            <Form tag="MLS" slouniki="yes">чыі+м-не+будзь</Form>
+            <Form tag="NGS" slouniki="yes">чыйго+-не+будзь</Form>
+            <Form tag="NDS" slouniki="yes">чыйму+-не+будзь</Form>
+            <Form tag="NIS" slouniki="yes">чыі+м-не+будзь</Form>
+            <Form tag="NLS" slouniki="yes">чыі+м-не+будзь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1186568" lemma="чый-нічы+й" tag="S">
+        <Variant id="a" lemma="чый-нічы+й">
+            <Form tag="MNS" slouniki="yes">чый-нічы+й</Form>
+            <Form tag="MGS" slouniki="yes">чыйго-нічыйго+</Form>
+            <Form tag="MDS" slouniki="yes">чыйму-нічыйму+</Form>
+            <Form tag="MAS" slouniki="yes">чыйго-нічыйго+</Form>
+            <Form tag="MAS" slouniki="yes">чый-нічы+й</Form>
+            <Form tag="MIS" slouniki="yes">чыім-нічыі+м</Form>
+            <Form tag="MLS" slouniki="yes">чыім-нічыі+м</Form>
+            <Form tag="FNS">чыя-нічыя+</Form>
+            <Form tag="FGS">чыёй-нічыёй</Form>
+            <Form tag="FDS">чыёй-нічыёй</Form>
+            <Form tag="FAS">чыю-нічыю+</Form>
+            <Form tag="FIS">чыёй-нічыёй</Form>
+            <Form tag="FIS">чыёю-нічыёю</Form>
+            <Form tag="FLS">чыёй-нічыёй</Form>
+            <Form tag="NNS">чыё-нічыё</Form>
+            <Form tag="NGS">чыйго-нічыйго+</Form>
+            <Form tag="NDS">чыйму-нічыйму+</Form>
+            <Form tag="NAS">чыё-нічыё</Form>
+            <Form tag="NIS">чыім-нічыі+м</Form>
+            <Form tag="NLS">чыім-нічыі+м</Form>
+            <Form tag="0NP" slouniki="yes">чые+-нічые+</Form>
+            <Form tag="0GP" slouniki="yes">чыі+х-нічыі+х</Form>
+            <Form tag="0DP" slouniki="yes">чыі+м-нічыі+м</Form>
+            <Form tag="0AP" slouniki="yes">чыі+х-нічыі+х</Form>
+            <Form tag="0AP" slouniki="yes">чые+-нічые+</Form>
+            <Form tag="0IP" slouniki="yes">чыі+мі-нічыі+мі</Form>
+            <Form tag="0LP" slouniki="yes">чыі+х-нічыі+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127856" lemma="чыйсь" tag="S">
+        <Variant id="a" lemma="чыйсь">
+            <Form tag="FNS" slouniki="yes">чыя+сь</Form>
+            <Form tag="FGS" slouniki="yes">чыёйсь</Form>
+            <Form tag="FDS" slouniki="yes">чыёйсь</Form>
+            <Form tag="FAS" slouniki="yes">чыю+сь</Form>
+            <Form tag="FIS" slouniki="yes">чыёйсь</Form>
+            <Form tag="FLS" slouniki="yes">чыёйсь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127855" lemma="чы+йсьці" tag="S">
+        <Variant id="a" lemma="чы+йсьці">
+            <Form tag="MNS" slouniki="yes">чы+йсьці</Form>
+            <Form tag="MGS" slouniki="yes">чыйго+сьці</Form>
+            <Form tag="MDS" slouniki="yes">чыйму+сьці</Form>
+            <Form tag="MAS" slouniki="yes">чыйго+сьці</Form>
+            <Form tag="MAS" slouniki="yes">чы+йсьці</Form>
+            <Form tag="MIS" slouniki="yes">чыі+мсьці</Form>
+            <Form tag="MLS" slouniki="yes">чыі+мсьці</Form>
+            <Form tag="FNS" slouniki="yes">чыя+сьці</Form>
+            <Form tag="FGS" slouniki="yes">чыёйсьці</Form>
+            <Form tag="FDS" slouniki="yes">чыёйсьці</Form>
+            <Form tag="FAS" slouniki="yes">чыю+сьці</Form>
+            <Form tag="FIS" slouniki="yes">чыёйсьці</Form>
+            <Form tag="FLS" slouniki="yes">чыёйсьці</Form>
+            <Form tag="NNS" slouniki="yes">чыёсьці</Form>
+            <Form tag="NGS" slouniki="yes">чыйго+сьці</Form>
+            <Form tag="NDS" slouniki="yes">чыйму+сьці</Form>
+            <Form tag="NIS" slouniki="yes">чыі+мсьці</Form>
+            <Form tag="NLS" slouniki="yes">чыі+мсьці</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127827" lemma="што" tag="S">
+        <Variant id="a" lemma="што">
+            <Slounik name="piskunou2012" idx="213075">{b}што{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} чаго´, {i}Д{/i} чаму´, {i}В{/i} што, {i}ТМ{/i} чым /// </Slounik>
+            <Form tag="0NS" slouniki="yes">што</Form>
+            <Form tag="0GS" slouniki="yes">чаго+</Form>
+            <Form tag="0DS" slouniki="yes">чаму+</Form>
+            <Form tag="0AS" slouniki="yes">што</Form>
+            <Form tag="0IS" slouniki="yes">чым</Form>
+            <Form tag="0LS" slouniki="yes">чым</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127621" lemma="што-ко+лечы" tag="S">
+        <Variant id="a" lemma="што-ко+лечы">
+            <Slounik name="piskunou2012" idx="213119">{b}што-ко´лечы{/b} {i}займ.{/i}, {i}Р{/i} чаго´-ко´лечы, {i}Д{/i} чаму´-ко´лечы, {i}ТМ{/i} чым-ко´лечы /// </Slounik>
+            <Form tag="0NS" slouniki="yes">што-ко+лечы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127826" lemma="што-не+будзь" tag="S">
+        <Variant id="a" lemma="што-не+будзь">
+            <Slounik name="piskunou2012" idx="213140">{b}што-не´будзь{/b} {i}займ.{/i}, {i}Р{/i} чаго´-не´будзь /// </Slounik>
+            <Form tag="0NS" slouniki="yes">што-не+будзь</Form>
+            <Form tag="0GS" slouniki="yes">чаго+-не+будзь</Form>
+            <Form tag="0DS" slouniki="yes">чаму+-не+будзь</Form>
+            <Form tag="0AS" slouniki="yes">што-не+будзь</Form>
+            <Form tag="0IS" slouniki="yes">чым-не+будзь</Form>
+            <Form tag="0LS" slouniki="yes">чым-не+будзь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127828" lemma="што-нішто+" tag="S">
+        <Variant id="a" lemma="што-нішто+">
+            <Form tag="0NS" slouniki="yes">што-нішто+</Form>
+            <Form tag="0GS">чаго+-нічаго+</Form>
+            <Form tag="0DS">чаму+-нічаму+</Form>
+            <Form tag="0AS">што-нішто+</Form>
+            <Form tag="0IS">чым-нічы+м</Form>
+            <Form tag="0LS">чым-нічы+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127829" lemma="штось" tag="S">
+        <Variant id="a" lemma="штось">
+            <Slounik name="piskunou2012" idx="213183">{b}штось{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} чаго´сь, {i}В{/i} штось, {i}Д{/i} чаму´сь, {i}ТМ{/i} чымсь /// </Slounik>
+            <Form tag="MNS" slouniki="yes">штось</Form>
+            <Form tag="MGS" slouniki="yes">чаго+сь</Form>
+            <Form tag="MDS" slouniki="yes">чаму+сь</Form>
+            <Form tag="MAS" slouniki="yes">штось</Form>
+            <Form tag="MIS" slouniki="yes">чымсь</Form>
+            <Form tag="MLS" slouniki="yes">чымсь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127830" lemma="што+сьці" tag="S">
+        <Variant id="a" lemma="што+сьці">
+            <Slounik name="piskunou2012" idx="213185">{b}што´сьці{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} чаго´сьці, {i}В{/i} што´сьці, {i}Д{/i} чаму´сьці, {i}ТМ{/i} чы´мсьці /// </Slounik>
+            <Form tag="0NS" slouniki="yes">што+сьці</Form>
+            <Form tag="0GS" slouniki="yes">чаго+сьці</Form>
+            <Form tag="0DS" slouniki="yes">чаму+сьці</Form>
+            <Form tag="0AS">што+сьці</Form>
+            <Form tag="0IS" slouniki="yes">чы+мсьці</Form>
+            <Form tag="0LS" slouniki="yes">чы+мсьці</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127807" lemma="я" tag="S">
+        <Variant id="a" lemma="я">
+            <Form tag="0NS" slouniki="yes">я</Form>
+            <Form tag="0GS" slouniki="yes">мяне+</Form>
+            <Form tag="0DS" slouniki="yes">мне</Form>
+            <Form tag="0AS" slouniki="yes">мяне+</Form>
+            <Form tag="0IS" slouniki="yes">мной</Form>
+            <Form tag="0IS" slouniki="yes">мно+ю</Form>
+            <Form tag="0LS" slouniki="yes">мне</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1145616" lemma="яго+ны" tag="S">
+        <Variant id="a" lemma="яго+ны">
+            <Slounik name="piskunou2012" idx="217536">{b}яго´ны{/b} {i}займ.{/i} /// </Slounik>
+            <Form tag="MNS" slouniki="yes">яго+ны</Form>
+            <Form tag="MGS" slouniki="yes">яго+нага</Form>
+            <Form tag="MDS" slouniki="yes">яго+наму</Form>
+            <Form tag="MAS" slouniki="yes">яго+нага</Form>
+            <Form tag="MAS" slouniki="yes">яго+ны</Form>
+            <Form tag="MIS" slouniki="yes">яго+ным</Form>
+            <Form tag="MLS" slouniki="yes">яго+ным</Form>
+            <Form tag="NGS" slouniki="yes">яго+нага</Form>
+            <Form tag="NDS" slouniki="yes">яго+наму</Form>
+            <Form tag="NIS" slouniki="yes">яго+ным</Form>
+            <Form tag="NLS" slouniki="yes">яго+ным</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127858" lemma="які+" tag="S">
+        <Variant id="a" lemma="які+">
+            <Form tag="MNS" slouniki="yes">які+</Form>
+            <Form tag="MGS" slouniki="yes">яко+га</Form>
+            <Form tag="MDS" slouniki="yes">яко+му</Form>
+            <Form tag="MAS" slouniki="yes">яко+га</Form>
+            <Form tag="MAS" slouniki="yes">які+</Form>
+            <Form tag="MIS" slouniki="yes">які+м</Form>
+            <Form tag="MLS" slouniki="yes">які+м</Form>
+            <Form tag="FNS" slouniki="yes">яка+я</Form>
+            <Form tag="FGS" slouniki="yes">яко+й</Form>
+            <Form tag="FGS" slouniki="yes">яко+е</Form>
+            <Form tag="FDS" slouniki="yes">яко+й</Form>
+            <Form tag="FAS" slouniki="yes">яку+ю</Form>
+            <Form tag="FIS" slouniki="yes">яко+й</Form>
+            <Form tag="FIS" slouniki="yes">яко+ю</Form>
+            <Form tag="FLS" slouniki="yes">яко+й</Form>
+            <Form tag="NNS" slouniki="yes">яко+е</Form>
+            <Form tag="NGS" slouniki="yes">яко+га</Form>
+            <Form tag="NDS" slouniki="yes">яко+му</Form>
+            <Form tag="NAS" slouniki="yes">яко+е</Form>
+            <Form tag="NIS" slouniki="yes">які+м</Form>
+            <Form tag="NLS" slouniki="yes">які+м</Form>
+            <Form tag="0NP" slouniki="yes">які+я</Form>
+            <Form tag="0GP" slouniki="yes">які+х</Form>
+            <Form tag="0DP" slouniki="yes">які+м</Form>
+            <Form tag="0AP" slouniki="yes">які+х</Form>
+            <Form tag="0AP" slouniki="yes">які+я</Form>
+            <Form tag="0IP" slouniki="yes">які+мі</Form>
+            <Form tag="0LP" slouniki="yes">які+х</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127860" lemma="які-не+будзь" tag="S">
+        <Variant id="a" lemma="які-не+будзь">
+            <Form tag="MGS" slouniki="yes">яко+га-не+будзь</Form>
+            <Form tag="MDS" slouniki="yes">яко+му-не+будзь</Form>
+            <Form tag="MIS" slouniki="yes">які+м-не+будзь</Form>
+            <Form tag="MLS" slouniki="yes">які+м-не+будзь</Form>
+            <Form tag="NGS" slouniki="yes">яко+га-не+будзь</Form>
+            <Form tag="NDS" slouniki="yes">яко+му-не+будзь</Form>
+            <Form tag="NIS" slouniki="yes">які+м-не+будзь</Form>
+            <Form tag="NLS" slouniki="yes">які+м-не+будзь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127859" lemma="які+-ніякі+" tag="S">
+        <Variant id="a" lemma="які+-ніякі+">
+            <Slounik name="piskunou2012" idx="217744">{b}які´-ніякі´{/b} {i}займ.{/i}, {i}Р{/i} яко´га-ніяко´га ({i}іншыя формы скланення гл.{/i} які´, ніякі´) /// </Slounik>
+            <Form tag="MNS" slouniki="yes">які+-ніякі+</Form>
+            <Form tag="MGS" slouniki="yes">яко+га-ніяко+га</Form>
+            <Form tag="MDS" slouniki="yes">яко+му-ніяко+му</Form>
+            <Form tag="MAS" slouniki="yes">яко+га-ніяко+га</Form>
+            <Form tag="MAS" slouniki="yes">які+-ніякі+</Form>
+            <Form tag="MIS" slouniki="yes">які+м-ніякі+м</Form>
+            <Form tag="MLS" slouniki="yes">які+м-ніякі+м</Form>
+            <Form tag="NDS" slouniki="yes">яко+му-ніяко+му</Form>
+            <Form tag="NIS" slouniki="yes">які+м-ніякі+м</Form>
+            <Form tag="NLS" slouniki="yes">які+м-ніякі+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127862" lemma="які+сьці" tag="S">
+        <Variant id="a" lemma="які+сьці">
+            <Form tag="MNS" slouniki="yes">які+сьці</Form>
+            <Form tag="MGS" slouniki="yes">яко+гасьці</Form>
+            <Form tag="MDS" slouniki="yes">яко+мусьці</Form>
+            <Form tag="MAS" slouniki="yes">яко+гасьці</Form>
+            <Form tag="MAS" slouniki="yes">які+сьці</Form>
+            <Form tag="MIS" slouniki="yes">які+мсьці</Form>
+            <Form tag="MLS" slouniki="yes">які+мсьці</Form>
+            <Form tag="NGS" slouniki="yes">яко+гасьці</Form>
+            <Form tag="NDS" slouniki="yes">яко+мусьці</Form>
+            <Form tag="NIS" slouniki="yes">які+мсьці</Form>
+            <Form tag="NLS" slouniki="yes">які+мсьці</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

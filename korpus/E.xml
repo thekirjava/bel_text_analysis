@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1000005" lemma="а" tag="E">
+        <Variant id="a" lemma="а">
+            <Form tag="" slouniki="yes">а</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000006" lemma="або+" tag="E">
+        <Variant id="a" lemma="або+">
+            <Form tag="" slouniki="yes">або+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000009" lemma="ага+" tag="E">
+        <Variant id="a" lemma="ага+">
+            <Form tag="" slouniki="yes">ага+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000011" lemma="аж" tag="E">
+        <Variant id="a" lemma="аж">
+            <Form tag="" slouniki="yes">аж</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000012" lemma="ажно+" tag="E">
+        <Variant id="a" lemma="ажно+">
+            <Form tag="" slouniki="yes">ажно+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000013" lemma="акура+т" tag="E">
+        <Variant id="a" lemma="акура+т">
+            <Form tag="" slouniki="yes">акура+т</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000015" lemma="ама+ль" tag="E">
+        <Variant id="a" lemma="ама+ль">
+            <Form tag="" slouniki="yes">ама+ль</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198087" lemma="амі+н" tag="E">
+        <Variant id="a" lemma="амі+н">
+            <Slounik name="piskunou2012" idx="13135">{b}амі´н{/b}{sup}2{/sup} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">амі+н</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000016" lemma="ані+" tag="E">
+        <Variant id="a" lemma="ані+">
+            <Form tag="" slouniki="yes">ані+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000017" lemma="ану+" tag="E">
+        <Variant id="a" lemma="ану+">
+            <Form tag="" slouniki="yes">ану+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000018" lemma="б" tag="E">
+        <Variant id="a" lemma="б">
+            <Form tag="" slouniki="yes">б</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000019" lemma="бада+й" tag="E">
+        <Variant id="a" lemma="бада+й">
+            <Form tag="" slouniki="yes">бада+й</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000021" lemma="бач" tag="E">
+        <Variant id="a" lemma="бач">
+            <Slounik name="piskunou2012" idx="22859">{b}бач{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">бач</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000022" lemma="бо" tag="E">
+        <Variant id="a" lemma="бо">
+            <Form tag="" slouniki="yes">бо</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000023" lemma="бы" tag="E">
+        <Variant id="a" lemma="бы">
+            <Slounik name="piskunou2012" idx="27952">{b}бы{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">бы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198088" lemma="быва+ла" tag="E">
+        <Variant id="a" lemma="быва+ла">
+            <Slounik name="piskunou2012" idx="27953">{b}быва´ла{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">быва+ла</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000024" lemma="бы+ццам" tag="E">
+        <Variant id="a" lemma="бы+ццам">
+            <Form tag="" slouniki="yes">бы+ццам</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127951" lemma="ве+дама" tag="E">
+        <Variant id="a" lemma="ве+дама">
+            <Form tag="" slouniki="yes">ве+дама</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000026" lemma="во" tag="E">
+        <Variant id="a" lemma="во">
+            <Slounik name="piskunou2012" idx="33018">{b}во{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">во</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000027" lemma="вось" tag="E">
+        <Variant id="a" lemma="вось">
+            <Slounik name="piskunou2012" idx="33715">{b}вось{/b}{sup}2{/sup} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">вось</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198090" lemma="вот" tag="E">
+        <Variant id="a" lemma="вот">
+            <Slounik name="piskunou2012" idx="33720">{b}вот{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">вот</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000029" lemma="вунь" tag="E">
+        <Variant id="a" lemma="вунь">
+            <Slounik name="piskunou2012" idx="34192">{b}вунь{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">вунь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000031" lemma="выклю+чна" tag="E">
+        <Variant id="a" lemma="выклю+чна">
+            <Form tag="" slouniki="yes">выклю+чна</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000032" lemma="вядо+ма" tag="E">
+        <Variant id="a" lemma="вядо+ма">
+            <Slounik name="piskunou2012" idx="39749">{b}вядо´ма{/b} {i}паб.{/i} {i}сл.{/i}, {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">вядо+ма</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000033" lemma="гэ+та" tag="E">
+        <Variant id="a" lemma="гэ+та">
+            <Slounik name="piskunou2012" idx="47966">{b}гэ´та{/b}{sup}4{/sup} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">гэ+та</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000034" lemma="дава+й" tag="E">
+        <Variant id="a" lemma="дава+й">
+            <Slounik name="piskunou2012" idx="48305">{b}дава´й{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">дава+й</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198091" lemma="дава+йце" tag="E">
+        <Variant id="a" lemma="дава+йце">
+            <Slounik name="piskunou2012" idx="48306">{b}дава´йце{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">дава+йце</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000035" lemma="дай" tag="E">
+        <Variant id="a" lemma="дай">
+            <Slounik name="piskunou2012" idx="48957">{b}дай{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">дай</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198092" lemma="дапу+сцім" tag="E">
+        <Variant id="a" lemma="дапу+сцім">
+            <Form tag="" slouniki="yes">дапу+сцім</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127952" lemma="дарма+" tag="E">
+        <Variant id="a" lemma="дарма+">
+            <Form tag="" slouniki="yes">дарма+</Form>
+        </Variant>
+        <Variant id="b" lemma="да+рма">
+            <Form tag="" slouniki="yes">да+рма</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000036" lemma="дзе" tag="E">
+        <Variant id="a" lemma="дзе">
+            <Form tag="" slouniki="yes">дзе</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000037" lemma="дзя+куй" tag="E">
+        <Variant id="a" lemma="дзя+куй">
+            <Form tag="" slouniki="yes">дзя+куй</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000041" lemma="ж" tag="E">
+        <Variant id="a" lemma="ж">
+            <Form tag="" slouniki="yes">ж</Form>
+        </Variant>
+        <Variant id="b" lemma="жа">
+            <Form tag="" slouniki="yes">жа</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000001" lemma="і" tag="E">
+        <Variant id="a" lemma="і">
+            <Form tag="" slouniki="yes">і</Form>
+        </Variant>
+        <Variant id="b" lemma="й">
+            <Form tag="" slouniki="yes">й</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000002" lemma="і+менна" tag="E">
+        <Variant id="a" lemma="і+менна">
+            <Slounik name="piskunou2012" idx="74853">{b}і´менна{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">і+менна</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000003" lemma="іна+кш" tag="E">
+        <Variant id="a" lemma="іна+кш">
+            <Form tag="" slouniki="yes">іна+кш</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000004" lemma="іна+чай" tag="E">
+        <Variant id="a" lemma="іна+чай">
+            <Form tag="" slouniki="yes">іна+чай</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000043" lemma="каб" tag="E">
+        <Variant id="a" lemma="каб">
+            <Form tag="" slouniki="yes">каб</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000044" lemma="калі+" tag="E">
+        <Variant id="a" lemma="калі+">
+            <Form tag="" slouniki="yes">калі+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127954" lemma="кане+шне" tag="E">
+        <Variant id="a" lemma="кане+шне">
+            <Form tag="" slouniki="yes">кане+шне</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000045" lemma="куды+" tag="E">
+        <Variant id="a" lemma="куды+">
+            <Form tag="" slouniki="yes">куды+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198093" lemma="маўля+ў" tag="E">
+        <Variant id="a" lemma="маўля+ў">
+            <Slounik name="piskunou2012" idx="96907">{b}маўля´ў{/b}* {i}паб. сл.{/i}, {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">маўля+ў</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000047" lemma="менаві+та" tag="E">
+        <Variant id="a" lemma="менаві+та">
+            <Form tag="" slouniki="yes">менаві+та</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000048" lemma="мо+жна" tag="E">
+        <Variant id="a" lemma="мо+жна">
+            <Form tag="" slouniki="yes">мо+жна</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000052" lemma="на" tag="E">
+        <Variant id="a" lemma="на">
+            <Form tag="" slouniki="yes">на</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127956" lemma="наадваро+т" tag="E">
+        <Variant id="a" lemma="наадваро+т">
+            <Form tag="" slouniki="yes">наадваро+т</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000055" lemma="на+ват" tag="E">
+        <Variant id="a" lemma="на+ват">
+            <Slounik name="piskunou2012" idx="102761">{b}на´ват{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">на+ват</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198094" lemma="нат" tag="E">
+        <Variant id="a" lemma="нат">
+            <Form tag="" slouniki="yes">нат</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000053" lemma="наўра+д" tag="E">
+        <Variant id="a" lemma="наўра+д">
+            <Form tag="" slouniki="yes">наўра+д</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198095" lemma="на+це" tag="E">
+        <Variant id="a" lemma="на+це">
+            <Slounik name="piskunou2012" idx="109291">{b}на´це{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">на+це</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000058" lemma="не" tag="E">
+        <Variant id="a" lemma="не">
+            <Slounik name="piskunou2012" idx="109958">{b}не{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">не</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000049" lemma="ні" tag="E">
+        <Variant id="a" lemma="ні">
+            <Slounik name="piskunou2012" idx="115646">{b}ні{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">ні</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000050" lemma="нібы+" tag="E">
+        <Variant id="a" lemma="нібы+">
+            <Form tag="" slouniki="yes">нібы+</Form>
+        </Variant>
+        <Variant id="b" lemma="ні+бы">
+            <Form tag="" slouniki="yes">ні+бы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000059" lemma="ну" tag="E">
+        <Variant id="a" lemma="ну">
+            <Form tag="" slouniki="yes">ну</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127958" lemma="ну-ну" tag="E">
+        <Variant id="a" lemma="ну-ну">
+            <Form tag="" slouniki="yes">ну-ну</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198096" lemma="нябо+сь" tag="E">
+        <Variant id="a" lemma="нябо+сь">
+            <Slounik name="piskunou2012" idx="116717">{b}нябо´сь{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">нябо+сь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000061" lemma="няўжо+" tag="E">
+        <Variant id="a" lemma="няўжо+">
+            <Slounik name="piskunou2012" idx="117949">{b}няўжо´{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">няўжо+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000062" lemma="няха+й" tag="E">
+        <Variant id="a" lemma="няха+й">
+            <Slounik name="piskunou2012" idx="118216">{b}няха´й{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">няха+й</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000064" lemma="от" tag="E">
+        <Variant id="a" lemma="от">
+            <Slounik name="piskunou2012" idx="118598">{b}от{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">от</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198097" lemma="ото+" tag="E">
+        <Variant id="a" lemma="ото+">
+            <Slounik name="piskunou2012" idx="118612">{b}ото´{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">ото+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127959" lemma="папро+сту" tag="E">
+        <Variant id="a" lemma="папро+сту">
+            <Form tag="" slouniki="yes">папро+сту</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000065" lemma="про+ста" tag="E">
+        <Variant id="a" lemma="про+ста">
+            <Form tag="" slouniki="yes">про+ста</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127960" lemma="про+ста-такі+" tag="E">
+        <Variant id="a" lemma="про+ста-такі+">
+            <Slounik name="piskunou2012" idx="152667">{b}про´ста-такі´{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">про+ста-такі+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000066" lemma="прыблі+зна" tag="E">
+        <Variant id="a" lemma="прыблі+зна">
+            <Form tag="" slouniki="yes">прыблі+зна</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198098" lemma="са+ма" tag="E">
+        <Variant id="a" lemma="са+ма">
+            <Form tag="" slouniki="yes">са+ма</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000068" lemma="сапраўды+" tag="E">
+        <Variant id="a" lemma="сапраўды+">
+            <Form tag="" slouniki="yes">сапраўды+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000069" lemma="так" tag="E">
+        <Variant id="a" lemma="так">
+            <Form tag="" slouniki="yes">так</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000070" lemma="такса+ма" tag="E">
+        <Variant id="a" lemma="такса+ма">
+            <Form tag="" slouniki="yes">такса+ма</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1198099" lemma="та+к-такі" tag="E">
+        <Variant id="a" lemma="та+к-такі">
+            <Slounik name="piskunou2012" idx="187895">{b}та´к-такі{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">та+к-такі</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000071" lemma="там" tag="E">
+        <Variant id="a" lemma="там">
+            <Form tag="" slouniki="yes">там</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000072" lemma="то+лькі" tag="E">
+        <Variant id="a" lemma="то+лькі">
+            <Form tag="" slouniki="yes">то+лькі</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000073" lemma="трэ+ба" tag="E">
+        <Variant id="a" lemma="трэ+ба">
+            <Form tag="" slouniki="yes">трэ+ба</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000074" lemma="тут" tag="E">
+        <Variant id="a" lemma="тут">
+            <Form tag="" slouniki="yes">тут</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000076" lemma="ужо+" tag="E">
+        <Variant id="a" lemma="ужо+">
+            <Form tag="" slouniki="yes">ужо+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000077" lemma="унь" tag="E">
+        <Variant id="a" lemma="унь">
+            <Slounik name="piskunou2012" idx="197222">{b}унь{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">унь</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000078" lemma="усё" tag="E">
+        <Variant id="a" lemma="усё">
+            <Form tag="" slouniki="yes">усё</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127962" lemma="усё-такі" tag="E">
+        <Variant id="a" lemma="усё-такі">
+            <Form tag="" slouniki="yes">усё-такі</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000080" lemma="хай" tag="E">
+        <Variant id="a" lemma="хай">
+            <Slounik name="piskunou2012" idx="203691">{b}хай{/b} {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">хай</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000081" lemma="хаця+" tag="E">
+        <Variant id="a" lemma="хаця+">
+            <Slounik name="piskunou2012" idx="204329">{b}хаця´{/b}* {i}часц.{/i} /// </Slounik>
+            <Form tag="" slouniki="yes">хаця+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000079" lemma="хіба+" tag="E">
+        <Variant id="a" lemma="хіба+">
+            <Form tag="" slouniki="yes">хіба+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000082" lemma="хоць" tag="E">
+        <Variant id="a" lemma="хоць">
+            <Form tag="" slouniki="yes">хоць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000083" lemma="ці" tag="E">
+        <Variant id="a" lemma="ці">
+            <Form tag="" slouniki="yes">ці</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000084" lemma="чы+ста" tag="E">
+        <Variant id="a" lemma="чы+ста">
+            <Form tag="" slouniki="yes">чы+ста</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000000" lemma="як" tag="E">
+        <Variant id="a" lemma="як">
+            <Form tag="" slouniki="yes">як</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000087" lemma="якра+з" tag="E">
+        <Variant id="a" lemma="якра+з">
+            <Form tag="" slouniki="yes">якра+з</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1000088" lemma="яшчэ+" tag="E">
+        <Variant id="a" lemma="яшчэ+">
+            <Form tag="" slouniki="yes">яшчэ+</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

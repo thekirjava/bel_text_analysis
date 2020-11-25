@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1161027" lemma="адна+к" tag="Z">
+        <Variant id="a" lemma="адна+к">
+            <Form tag="" slouniki="yes">адна+к</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1159713" lemma="віда+ць" tag="Z">
+        <Variant id="a" lemma="віда+ць">
+            <Form tag="" slouniki="yes">віда+ць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1160151" lemma="зна+чыць" tag="Z">
+        <Variant id="a" lemma="зна+чыць">
+            <Form tag="" slouniki="yes">зна+чыць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1146259" lemma="ма+быць" tag="Z">
+        <Variant id="a" lemma="ма+быць">
+            <Form tag="" slouniki="yes">ма+быць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127927" lemma="магчы+ма" tag="Z">
+        <Variant id="a" lemma="магчы+ма">
+            <Form tag="" slouniki="yes">магчы+ма</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1210996" lemma="му+сібыць" tag="Z">
+        <Variant id="a" lemma="му+сібыць">
+            <Form tag="" slouniki="yes">му+сібыць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127928" lemma="му+сіць" tag="Z">
+        <Variant id="a" lemma="му+сіць">
+            <Form tag="" slouniki="yes">му+сіць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1161028" lemma="наадваро+т" tag="Z">
+        <Variant id="a" lemma="наадваро+т">
+            <Form tag="" slouniki="yes">наадваро+т</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1127926" lemma="напры+клад" tag="Z">
+        <Variant id="a" lemma="напры+клад">
+            <Form tag="" slouniki="yes">напры+клад</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1210998" lemma="па-дзявя+тае" tag="Z">
+        <Variant id="a" lemma="па-дзявя+тае">
+            <Form tag="" slouniki="yes">па-дзявя+тае</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1210999" lemma="па-дзяся+тае" tag="Z">
+        <Variant id="a" lemma="па-дзяся+тае">
+            <Form tag="" slouniki="yes">па-дзяся+тае</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211000" lemma="па-пя+тае" tag="Z">
+        <Variant id="a" lemma="па-пя+тае">
+            <Form tag="" slouniki="yes">па-пя+тае</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211001" lemma="па-сё+мае" tag="Z">
+        <Variant id="a" lemma="па-сё+мае">
+            <Form tag="" slouniki="yes">па-сё+мае</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211002" lemma="па-чацвё+ртае" tag="Z">
+        <Variant id="a" lemma="па-чацвё+ртае">
+            <Form tag="" slouniki="yes">па-чацвё+ртае</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211003" lemma="па-шо+стае" tag="Z">
+        <Variant id="a" lemma="па-шо+стае">
+            <Form tag="" slouniki="yes">па-шо+стае</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1145613" lemma="прына+мсі" tag="Z">
+        <Variant id="a" lemma="прына+мсі">
+            <Form tag="" slouniki="yes">прына+мсі</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1161026" lemma="так" tag="Z">
+        <Variant id="a" lemma="так">
+            <Form tag="" slouniki="yes">так</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>
