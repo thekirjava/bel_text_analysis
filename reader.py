@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as et
+import utils
 
 
 class Reader:
@@ -6,10 +7,13 @@ class Reader:
         self.__postfix_map = {}
         self.__prefix_map = {}
         self.__word_map = {}
+        self.__tag_map = {}
         tree = et.parse(filename)
         self.__root = tree.getroot()
 
     def __make_key(self, lemma, form, tag):
+        if form in self.__word_map:
+            return
         if form[:2] not in self.__prefix_map:
             self.__prefix_map[form[:2]] = len(self.__prefix_map)
         if form[:3] not in self.__prefix_map:
@@ -18,9 +22,9 @@ class Reader:
             self.__postfix_map[form[-2:]] = len(self.__postfix_map)
         if form[-3:] not in self.__postfix_map:
             self.__postfix_map[form[-3:]] = len(self.__postfix_map)
-        self.__word_map[lemma] = {'lemma': lemma, 'prefix_two': form[:2], 'prefix_three': form[:3],
-                                  'postfix_two:': form[-2:], 'postfix_three': form[-3:], 'tag': tag,
-                                  'id': len(self.__word_map)}
+        self.__word_map[form] = utils.make_word_key(lemma, form, tag, len(self.__word_map))
+        if tag not in self.__tag_map:
+            self.__tag_map[tag] = len(self.__tag_map)
 
     def open(self, filename):
         tree = et.parse(filename)
@@ -30,9 +34,11 @@ class Reader:
         self.__postfix_map = {}
         self.__prefix_map = {}
         self.__word_map = {}
+        self.__tag_map = {}
         for child in self.__root:
             lemma = child.attrib['lemma']
             lemma = lemma.replace('+', '')
+            pdg = child.attrib['pdgId']
             self.__make_key(lemma, lemma, child.attrib['tag'])
             for variant in child:
                 for form in variant:
@@ -44,4 +50,4 @@ class Reader:
                         continue
                     word_form = word_form.replace('+', '')
                     self.__make_key(lemma, word_form, child.attrib['tag'])
-        return [self.__word_map, self.__prefix_map, self.__postfix_map]
+        return self.__word_map, self.__prefix_map, self.__postfix_map, self.__tag_map
