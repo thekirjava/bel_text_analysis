@@ -38,7 +38,7 @@ class Reader:
         for child in self.__root:
             lemma = child.attrib['lemma']
             lemma = lemma.replace('+', '')
-            self.__make_key(lemma, lemma, child.attrib['tag'])
+            main_tag = child.attrib['tag']
             for variant in child:
                 for form in variant:
                     if form.tag == 'Form':
@@ -48,5 +48,6 @@ class Reader:
                     if word_form is None:
                         continue
                     word_form = word_form.replace('+', '')
-                    self.__make_key(lemma, word_form, child.attrib['tag'])
+                    tag = main_tag + form.attrib['tag']
+                    self.__make_key(lemma, word_form, tag)
         return self.__word_map, self.__prefix_map, self.__postfix_map, self.__tag_map
