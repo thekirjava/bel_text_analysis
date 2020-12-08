@@ -2,10 +2,18 @@ def read_txt(filename):
     ans = []
     with open(filename, 'r') as file:
         for line in file:
+            end_of_sentence = False
             for word in line.split():
+                if word[0].isupper() and end_of_sentence:
+                    ans.append("EOS")
+                if word[-1] in ".!?»":
+                    end_of_sentence = True
+                else:
+                    end_of_sentence = False
                 word = word.strip(".,:;!?'\"(){}[]\\/|1234567890+-=—«»<>")
                 if len(word) == 0:
                     continue
+
                 word = word.lower()
                 if word[0] == 'ў':
                     word = 'у' + word[1:]

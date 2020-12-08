@@ -32,6 +32,8 @@ class POSTagger:
         y = []
         for wordData in text:
             word, tag, prev = wordData
+            if word == 'EOS':
+                continue
             X.append(self.__make_vector(word, prev))
             y.append(self.__tags[tag])
         self.__clf.fit(X, y)
@@ -41,6 +43,9 @@ class POSTagger:
         prev = ['', '']
         for word in text:
             tag = ''
+            if word == 'EOS':
+                prev = ['', '']
+                continue
             if word in self.__words:
                 tag = self.__words[word]['tag']
             else:
