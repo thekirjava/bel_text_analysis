@@ -38,7 +38,6 @@ class Reader:
         for child in self.__root:
             lemma = child.attrib['lemma']
             lemma = lemma.replace('+', '')
-            pdg = child.attrib['pdgId']
             self.__make_key(lemma, lemma, child.attrib['tag'])
             for variant in child:
                 for form in variant:

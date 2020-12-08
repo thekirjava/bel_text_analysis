@@ -40,14 +40,19 @@ class POSTagger:
         ans = []
         prev = ['', '']
         for word in text:
-            tag_idx = self.__clf.predict([self.__make_vector(word, prev)])[0]
-            for key, value in self.__tags.items():
-                if value == tag_idx:
-                    ans.append([word, key])
-                    prev.append(key)
-                    if self.__words[word]['tag'] is None:
-                        self.__words[word]['tag'] = key
-                    break
+            tag = ''
+            if word in self.__words:
+                tag = self.__words[word]['tag']
+            else:
+                tag_idx = self.__clf.predict([self.__make_vector(word, prev)])[0]
+                for key, value in self.__tags.items():
+                    if value == tag_idx:
+                        tag = key
+                        break
+            ans.append([word, tag])
+            prev.append(tag)
+            if self.__words[word]['tag'] is None:
+                self.__words[word]['tag'] = tag
             while len(prev) > 2:
                 prev.pop(0)
         return ans
