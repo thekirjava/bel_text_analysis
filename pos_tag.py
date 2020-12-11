@@ -13,8 +13,6 @@ class POSTagger:
         self.__tags[''] = -1
 
     def __make_vector(self, word, prev):
-        if word not in self.__words:
-            self.__words[word] = utils.make_word_key(word, word, None, len(self.__words))
         if word[:2] not in self.__prefix:
             self.__prefix[word[:2]] = len(self.__prefix)
         if word[:3] not in self.__prefix:
@@ -23,16 +21,15 @@ class POSTagger:
             self.__postfix[word[-2:]] = len(self.__postfix)
         if word[-3:] not in self.__postfix:
             self.__postfix[word[-3:]] = len(self.__postfix)
-        return [self.__words[word]['id'], self.__tags[prev[0]], self.__tags[prev[1]],
-                self.__prefix[word[:2]], self.__prefix[word[:3]], self.__postfix[word[-2:]],
-                self.__postfix[word[-3:]]]
+        return [self.__tags[prev[0]], self.__tags[prev[1]],
+                self.__prefix[word[:2]], self.__prefix[word[:3]]]
 
     def train(self, text):
         X = []
         y = []
         for wordData in text:
             word, tag, prev = wordData
-            if word == 'EOS':
+            if word == 'EOS' or word == 'MARK':
                 continue
             X.append(self.__make_vector(word, prev))
             y.append(self.__tags[tag])
@@ -44,7 +41,11 @@ class POSTagger:
         for word in text:
             tag = ''
             if word == 'EOS':
+                ans.append(['EOS', 'EOS'])
                 prev = ['', '']
+                continue
+            elif word == 'MARK':
+                ans.append(['MARK', 'MARK'])
                 continue
             if word in self.__words:
                 tag = self.__words[word]['tag']
@@ -56,8 +57,6 @@ class POSTagger:
                         break
             ans.append([word, tag])
             prev.append(tag)
-            if self.__words[word]['tag'] is None:
-                self.__words[word]['tag'] = tag
             while len(prev) > 2:
                 prev.pop(0)
         return ans

@@ -39,6 +39,8 @@ class Reader:
             lemma = child.attrib['lemma']
             lemma = lemma.replace('+', '')
             main_tag = child.attrib['tag']
+            if main_tag[0] == 'N' and len(lemma) == 1:
+                continue
             for variant in child:
                 for form in variant:
                     if form.tag == 'Form':

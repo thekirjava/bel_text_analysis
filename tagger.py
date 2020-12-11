@@ -20,6 +20,9 @@ class Tagger:
                 prev = ['', '']
                 ans.append(("EOS", "EOS", ['', '']))
                 continue
+            elif word == 'MARK':
+                ans.append(("MARK", "MARK", ['', '']))
+                continue
             if word in self.___word_map:
                 ans.append((word, self.___word_map[word]['tag'], prev.copy()))
                 prev.append(self.___word_map[word]['tag'])
