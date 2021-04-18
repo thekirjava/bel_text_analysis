@@ -4,7 +4,7 @@ from functools import reduce
 class Node:
     def __init__(self, word, tag):
         self.words = [word]
-        if tag == 'MARK':
+        if tag == 'MARK' or True:
             self.tags = [tag]
         elif tag[0] == 'A' or tag[0] == 'M' or tag[0] == 'P' or tag[0] == 'S':
             self.tags = [tag[0], tag[1:]]

@@ -50,6 +50,6 @@ class Reader:
                     if word_form is None:
                         continue
                     word_form = word_form.replace('+', '')
-                    tag = main_tag + form.attrib['tag']
+                    tag = main_tag[0]
                     self.__make_key(lemma, word_form, tag)
         return self.__word_map, self.__prefix_map, self.__postfix_map, self.__tag_map
