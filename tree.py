@@ -3,7 +3,10 @@ from functools import reduce
 
 class Node:
     def __init__(self, word, tag):
-        self.words = [word]
+        if word is str:
+            self.words = [word]
+        else:
+            self.words = word
         if tag == 'MARK' or True:
             self.tags = [tag]
         elif tag[0] == 'A' or tag[0] == 'M' or tag[0] == 'P' or tag[0] == 'S':
@@ -342,3 +345,40 @@ class Tree:
             new_node.right = self.__nodes[i + 1]
             ans.append(new_node)
         self.__nodes = ans
+
+    def __bfs(self, tag):
+        ans = []
+        bfs = []
+        for node in self.__nodes:
+            bfs.append(node)
+            ans.append([])
+            while bfs:
+                cur = bfs[0]
+                # print(cur)
+                if cur is None:
+                    bfs.pop(0)
+                    continue
+                if cur.tags[0] in tag and len(cur.words) == 1:
+                    ans[-1].append(cur.words[0])
+                if cur.left is not None and cur.left.tags[0] in tag:
+                    bfs.append(cur.left)
+                if cur.right is not None and cur.right.tags[0] in tag:
+                    bfs.append(cur.right)
+                bfs.pop(0)
+        return ans
+
+    def find_subject(self): # подлежащее
+        return self.__bfs(['S', 'N'])
+
+    def find_predicate(self): # сказуемое
+        return self.__bfs(['V', 'W'])
+
+    def find_modifier(self): # определение
+        return self.__bfs(['A'])
+
+    def find_adverbial(self): # обстоятельство
+        pass
+
+    def find_object(self): # дополнение
+        return self.__bfs(['V', 'N'])
+
